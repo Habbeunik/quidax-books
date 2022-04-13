@@ -1,38 +1,120 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
+  border: 1px solid #eeeeee;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.05);
+  justify-content: space-between;
+  padding: 10px 15px;
+  background-color: #fff;
+}
+
+.App-header h3 {
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.Header-logoSection {
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.Header-actionSectionMobile {
+  display: flex;
+  align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Header-actionMobile {
+  margin-right: 30px;
+}
+
+.Header-actionMobile:last-child {
+  margin-right: 0px;
+}
+
+.Slider {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-gap: 5px;
+  margin: 25px 0px;
+}
+
+.BookCover {
+  height: 250px;
+  background: #f2f2f2;
+}
+
+.Headline {
+  font-size: 15px;
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 15px;
+}
+
+.BookList {
+  padding: 0px 15px;
+}
+
+.BookItem {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  grid-gap: 10px;
+}
+
+.BookItem-image {
+  height: 180px;
+  background: #f2f2f2;
+}
+
+.BookItem-title {
+  margin: 10px 0px;
+}
+
+.BookItem-text {
+  font-size: 12px;
+  margin: 0px;
+  margin-bottom: 5px;
+}
+
+.BookItem-actions {
+  display: flex;
+  margin: 10px 0px;
+}
+
+.BookItem-actionItem {
+  padding: 0px 10px;
+}
+
+.BookItem-actionItem p {
+  margin-bottom: 0px;
+}
+
+.BookItem-actionItem:first-child {
+  padding-left: 0px;
+  padding-right: 5px;
+}
+
+.BookItem-actionItem:last-child {
+  border-left: 1px solid #eeeeee;
+}
+
+.BookItemCopyText {
+  color: #65c100;
+  margin-left: 15px;
+}
+
+.flex {
+  display: flex;
+}
+
+.BookAddToCart {
+  border: none;
+  background: none;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  font-weight: bold;
+  padding: 0px;
+}
+
+.BookAddToCart img {
+  width: 14px;
+  margin-right: 5px;
 }
