@@ -13,6 +13,10 @@ const MobileSearchBox = () => {
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchValue(e.target.value);
   };
+  const handleBackClick = () => {
+    setIsSearchMode(false);
+    setSearchValue("");
+  };
 
   return (
     <>
@@ -27,7 +31,7 @@ const MobileSearchBox = () => {
           isSearchMode ? Styles.MobileSearchBoxLayerActive : ""
         }`}
       >
-        <button className="NoneButton" onClick={() => setIsSearchMode(false)}>
+        <button className="NoneButton" onClick={handleBackClick}>
           <img alt="back-icon" src={back} />
         </button>
         <div className={Styles.MobileSearchBox}>

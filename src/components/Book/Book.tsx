@@ -10,9 +10,10 @@ import Styles from "./book.module.css";
 
 type Props = {
   book: IBook;
+  onClick: (id: number) => void;
 };
 
-const Book: React.FC<Props> = ({ book }) => {
+const Book: React.FC<Props> = ({ book, onClick }) => {
   const {
     title,
     authors,
@@ -22,6 +23,7 @@ const Book: React.FC<Props> = ({ book }) => {
     price,
     likes,
     image_url,
+    id,
   } = book;
 
   const authorsText = authors
@@ -33,7 +35,7 @@ const Book: React.FC<Props> = ({ book }) => {
   const genresText = genres?.map((genre) => genre.name).join(", ");
 
   return (
-    <div className={Styles.BookItem}>
+    <div className={Styles.BookItem} onClick={() => onClick(id)}>
       <div className={Styles.BookItemImage}>
         <img src={image_url} alt={title} />
       </div>
