@@ -1,0 +1,69 @@
+.BookItem {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  grid-gap: 10px;
+  margin-bottom: 40px;
+}
+
+.BookItemImage {
+  height: 180px;
+  background: #f2f2f2;
+}
+
+.BookItemImage img {
+  width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+
+.BookItemTitle {
+  margin: 10px 0px;
+}
+
+.BookItemText {
+  font-size: 12px;
+  margin: 0px;
+  margin-bottom: 5px;
+}
+
+.BookItemActions {
+  display: flex;
+  margin: 10px 0px;
+}
+
+.BookItemActionItem {
+  padding: 0px 10px;
+}
+
+.BookItemActionItem p {
+  margin-bottom: 0px;
+}
+
+.BookItemActionItem:first-child {
+  padding-left: 0px;
+  padding-right: 5px;
+}
+
+.BookItemActionItem:last-child {
+  border-left: 1px solid #eeeeee;
+}
+
+.BookItemCopyText {
+  color: #65c100;
+  margin-left: 15px;
+}
+
+.BookAddToCart {
+  border: none;
+  background: none;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  font-weight: bold;
+  padding: 0px;
+}
+
+.BookAddToCart img {
+  width: 14px;
+  margin-right: 5px;
+}

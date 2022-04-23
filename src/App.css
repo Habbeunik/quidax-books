@@ -1,120 +1,36 @@
-.App-header {
-  display: flex;
-  border: 1px solid #eeeeee;
-  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.05);
-  justify-content: space-between;
-  padding: 10px 15px;
-  background-color: #fff;
-}
-
-.App-header h3 {
-  font-size: 15px;
-  margin-left: 10px;
-}
-
-.Header-logoSection {
-  display: flex;
-  align-items: center;
-}
-
-.Header-actionSectionMobile {
-  display: flex;
-  align-items: center;
-}
-
-.Header-actionMobile {
-  margin-right: 30px;
-}
-
-.Header-actionMobile:last-child {
-  margin-right: 0px;
-}
-
 .Slider {
-  display: grid;
+  display: flex;
   grid-template-columns: 1fr 2fr 1fr;
   grid-gap: 5px;
   margin: 25px 0px;
-}
-
-.BookCover {
-  height: 250px;
-  background: #f2f2f2;
-}
-
-.Headline {
-  font-size: 15px;
-  border-bottom: 1px solid #eeeeee;
-  padding-bottom: 15px;
-}
-
-.BookList {
-  padding: 0px 15px;
-}
-
-.BookItem {
-  display: grid;
-  grid-template-columns: 120px 1fr;
-  grid-gap: 10px;
-}
-
-.BookItem-image {
-  height: 180px;
-  background: #f2f2f2;
-}
-
-.BookItem-title {
-  margin: 10px 0px;
-}
-
-.BookItem-text {
-  font-size: 12px;
-  margin: 0px;
-  margin-bottom: 5px;
-}
-
-.BookItem-actions {
-  display: flex;
-  margin: 10px 0px;
-}
-
-.BookItem-actionItem {
-  padding: 0px 10px;
-}
-
-.BookItem-actionItem p {
-  margin-bottom: 0px;
-}
-
-.BookItem-actionItem:first-child {
-  padding-left: 0px;
-  padding-right: 5px;
-}
-
-.BookItem-actionItem:last-child {
-  border-left: 1px solid #eeeeee;
-}
-
-.BookItemCopyText {
-  color: #65c100;
-  margin-left: 15px;
+  width: max-content;
+  max-width: 100%;
+  overflow: scroll;
 }
 
 .flex {
   display: flex;
 }
 
-.BookAddToCart {
-  border: none;
-  background: none;
-  display: flex;
-  align-items: center;
-  margin-top: 10px;
-  font-weight: bold;
-  padding: 0px;
+.BookList {
+  padding: 0px 15px;
 }
 
-.BookAddToCart img {
-  width: 14px;
-  margin-right: 5px;
+.BookCover {
+  height: 250px;
+  width: 150px;
+  min-width: 150px;
+  background: #f2f2f2;
+}
+
+.BookCover img {
+  width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+
+.Headline {
+  font-size: 15px;
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 15px;
 }

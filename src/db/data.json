@@ -1,0 +1,1368 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "title": "The Innovator's Dilemma",
+      "subtitle": "When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)",
+      "publisher": "Harvard Business School Press",
+      "release_date": "1997-01-01T11:00:00.000Z",
+      "number_of_purchases": 11,
+      "likes": 8,
+      "rating": 4.5,
+      "price": 15.87,
+      "currency": "USD",
+      "available_copies": 15,
+      "full_description": "The bestselling classic on disruptive innovation, by renowned author Clayton M. Christensen.\n\nHis work is cited by the world’s best-known thought leaders, from Steve Jobs to Malcolm Gladwell. In this classic bestseller—one of the most influential business books of all time—innovation expert Clayton Christensen shows how even the most outstanding companies can do everything right—yet still lose market leadership.\n\nChristensen explains why most companies miss out on new waves of innovation. No matter the industry, he says, a successful company with established products will get pushed aside unless managers know how and when to abandon traditional business practices.\n\nOffering both successes and failures from leading companies as a guide, The Innovator’s Dilemma gives you a set of rules for capitalizing on the phenomenon of disruptive innovation.\n\nSharp, cogent, and provocative—and consistently noted as one of the most valuable business ideas of all time—The Innovator’s Dilemma is the book no manager, leader, or entrepreneur should be without.",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:26:03.609Z",
+      "created_at": "2021-01-27T18:01:32.090Z",
+      "updated_at": "2021-01-28T17:02:54.735Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611770304/feec/the-innovators-dilemma_ap1zo4.jpg",
+      "authors": [
+        {
+          "id": 12,
+          "name": "Clayton M. Christensen",
+          "history": "Clayton Magleby Christensen was an American academic and business consultant who developed the theory of \"disruptive innovation\", which has been called the most influential business idea of the early 21st century",
+          "rating": null,
+          "book": 11,
+          "published_at": "2021-01-28T09:33:37.292Z",
+          "created_at": "2021-01-27T18:04:10.237Z",
+          "updated_at": "2021-01-28T11:26:02.468Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 25,
+          "name": " Entrepreneurship",
+          "published_at": "2021-01-28T16:39:02.166Z",
+          "created_at": "2021-01-28T16:39:00.309Z",
+          "updated_at": "2021-01-28T16:39:02.183Z"
+        },
+        {
+          "id": 8,
+          "name": "Management",
+          "published_at": "2021-01-28T16:31:43.955Z",
+          "created_at": "2021-01-28T16:31:42.317Z",
+          "updated_at": "2021-01-28T16:31:43.985Z"
+        },
+        {
+          "id": 10,
+          "name": "Technology",
+          "published_at": "2021-01-28T16:32:08.119Z",
+          "created_at": "2021-01-28T16:32:06.592Z",
+          "updated_at": "2021-01-28T16:32:08.141Z"
+        },
+        {
+          "id": 7,
+          "name": "Leadership",
+          "published_at": "2021-01-28T16:31:31.470Z",
+          "created_at": "2021-01-28T16:31:29.983Z",
+          "updated_at": "2021-01-28T16:31:31.500Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 7,
+          "name": "Business",
+          "published_at": "2021-01-28T16:29:24.460Z",
+          "created_at": "2021-01-28T16:29:22.839Z",
+          "updated_at": "2021-01-28T16:29:24.489Z"
+        },
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": " The Effective Engineer",
+      "subtitle": "How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact",
+      "publisher": "Effective Bookshelf",
+      "release_date": "2015-03-18T23:00:00.000Z",
+      "number_of_purchases": 84,
+      "likes": 63,
+      "rating": 4.4,
+      "price": 29.35,
+      "currency": "USD",
+      "available_copies": 0,
+      "full_description": "The most effective engineers — the ones who have risen to become distinguished engineers and leaders at their companies — can produce 10 times the impact of other engineers, but they're not working 10 times the hours.\n\nThey've internalized a mindset that took me years of trial and error to figure out. I'm going to share that mindset with you — along with hundreds of actionable techniques and proven habits — so you can shortcut those years.\n\nIntroducing The Effective Engineer — the only book designed specifically for today's software engineers, based on extensive interviews with engineering leaders at top tech companies, and packed with hundreds of techniques to accelerate your career.\n\nFor two years, I embarked on a quest seeking an answer to one question:\n\nHow do the most effective engineers make their efforts, their teams, and their careers more successful?\n\nI interviewed and collected stories from engineering VPs, directors, managers, and other leaders at today's top software companies: established, household names like Google, Facebook, Twitter, and LinkedIn; rapidly growing mid-sized companies like Dropbox, Square, Box, Airbnb, and Etsy; and startups like Reddit, Stripe, Instagram, and Lyft.\n\nThese leaders shared stories about the most valuable insights they've learned and the most common and costly mistakes that they've seen engineers — sometimes themselves — make.\n\nThis is just a small sampling of the hard questions I posed to them:\n\nWhat engineering qualities correlate with future success?\nWhat have you done that has paid off the highest returns?\nWhat separates the most effective engineers you've worked with from everyone else?\nWhat's the most valuable lesson your team has learned in the past year?\nWhat advice do you give to new engineers on your team?\nEveryone's story is different, but many of the lessons share common themes.\n\nYou'll get to hear stories like:\n\nHow did Instagram's team of 5 engineers build and support a service that grew to over 40 million users by the time the company was acquired?\nHow and why did Quora deploy code to production 40 to 50 times per day?\nHow did the team behind Google Docs become the fastest acquisition to rewrite its software to run on Google's infrastructure?\nHow does Etsy use continuous experimentation to design features that are guaranteed to increase revenue at launch?\nHow did Facebook's small infrastructure team effectively operate thousands of database servers?\nHow did Dropbox go from barely hiring any new engineers to nearly tripling its team size year-over-year?\nWhat's more, I've distilled their stories into actionable habits and lessons that you can follow step-by-step to make your career and your team more successful.\n\nThe skills used by effective engineers are all learnable.\n\nAnd I'll teach them to you. With The Effective Engineer, I'll teach you a unifying framework called leverage — the value produced per unit of time invested — that you can use to identify the activities that produce disproportionate results.\n\nHere's a sneak peek at some of the lessons you'll learn. You'll learn how to:\n\nPrioritize the right projects and tasks to increase your impact.\nEarn more leeway from your peers and managers on your projects.\nSpend less time maintaining and fixing software and more time building and shipping new features.\nProduce more accurate software estimates.\nValidate your ideas cheaply to reduce wasted work.\nNavigate organizational and people-related bottlenecks.\nFind the appropriate level of code reviews, testing, abstraction, and technical debt to balance speed and quality.\nShorten your debugging workflow to increase your iteration speed.\nUse metrics to quantify your impact and consistently make progress.",
+      "featured": true,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:15:30.983Z",
+      "created_at": "2021-01-27T09:56:36.731Z",
+      "updated_at": "2021-01-28T16:59:23.482Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611741483/feec/the-effective-engineer-cover_bgj7u4.jpg",
+      "authors": [
+        {
+          "id": 6,
+          "name": "Edmond Lau",
+          "history": "For the past decade, Edmond Lau has worked as a software engineer in some of the top technology companies in Silicon Valley, including Google, Ooyala, Quora, and Quip. He's passionate about building great engineering teams, and he's interviewed over 500+ engineering candidates throughout his career as well as spoken to teams across the country on how to build great engineering cultures. At Quora, he built out the onboarding and mentoring programs used to train dozens of new engineering hires. His engineering and career advice has been featured on Forbes, Time, Slate, Inc., and Fortune. He's also guest lectured at both MIT and Stanford on software design. He holds a Bachelor's and Master's in Computer Science from MIT.",
+          "rating": null,
+          "book": 5,
+          "published_at": "2021-01-28T09:34:05.573Z",
+          "created_at": "2021-01-27T09:52:34.613Z",
+          "updated_at": "2021-01-28T11:15:27.353Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Technology",
+          "published_at": "2021-01-28T16:32:08.119Z",
+          "created_at": "2021-01-28T16:32:06.592Z",
+          "updated_at": "2021-01-28T16:32:08.141Z"
+        },
+        {
+          "id": 8,
+          "name": "Management",
+          "published_at": "2021-01-28T16:31:43.955Z",
+          "created_at": "2021-01-28T16:31:42.317Z",
+          "updated_at": "2021-01-28T16:31:43.985Z"
+        },
+        {
+          "id": 11,
+          "name": "Programming",
+          "published_at": "2021-01-28T16:32:23.534Z",
+          "created_at": "2021-01-28T16:32:21.847Z",
+          "updated_at": "2021-01-28T16:32:23.554Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 6,
+          "name": " Computer Science",
+          "published_at": "2021-01-28T16:29:12.137Z",
+          "created_at": "2021-01-28T16:29:10.413Z",
+          "updated_at": "2021-01-28T16:29:12.156Z"
+        },
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        },
+        {
+          "id": 7,
+          "name": "Business",
+          "published_at": "2021-01-28T16:29:24.460Z",
+          "created_at": "2021-01-28T16:29:22.839Z",
+          "updated_at": "2021-01-28T16:29:24.489Z"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Obsidian",
+      "subtitle": "A Lux Novel Book 1",
+      "publisher": "Hodder & Stoughton",
+      "release_date": "2014-06-26T11:00:00.000Z",
+      "number_of_purchases": 29,
+      "likes": 20,
+      "rating": 4.5,
+      "price": 5.99,
+      "currency": "USD",
+      "available_copies": 15,
+      "full_description": "Discover the New York Times bestselling Lux series, which RT Book Reviews called “A thrilling ride from start to finish,\" from the very beginning…\n\nStarting over sucks.\n\nWhen we moved to West Virginia right before my senior year, I'd pretty much resigned myself to thick accents, dodgy internet access, and a whole lot of boring...until I spotted my hot neighbor, with his looming height and eerie green eyes. Things were looking up.\n\nAnd then he opened his mouth.\n\nDaemon is infuriating. Arrogant. Stab-worthy. We do not get along. At all. But when a stranger attacks me and Daemon literally freezes time with a wave of his hand, well, something...unexpected happens.\n\nThe hot alien living next door marks me.\n\nYou heard me. Alien. Turns out Daemon and his sister have a galaxy of enemies wanting to steal their abilities, and Daemon's touch has me lit up like the Vegas Strip. The only way I'm getting out of this alive is by sticking close to Daemon until my alien mojo fades.\n\nIf I don't kill him first, that is.\n\nRead the entire bestselling series!\n#1: Obsidian (from Katy's point of view)\n#2: Onyx (from Katy's point of view)\n#3: Opal (from Katy's point of view)\n#4: Origin\n#5: Opposition\nOblivion (Books 1-3 from Daemon's point of view) CAN BE READ FIRST OR AFTER KATY'S POV!\nPrequel: Shadows (Dawson's story)",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:05:47.813Z",
+      "created_at": "2021-01-28T09:00:12.215Z",
+      "updated_at": "2021-01-28T16:58:16.400Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611824216/feec/obsidian_nojlw9.jpg",
+      "authors": [
+        {
+          "id": 17,
+          "name": "Jennifer L. Armentrout",
+          "history": "# 1 NEW YORK TIMES, # 1 International, and USA TODAY Bestselling author Jennifer L. Armentrout lives in West Virginia. She also writes under the name J. Lynn. When she's not hard at work writing, she spends her time, reading, working out, watching zombie movies, and pretending to write. She shares her home with her husband, his K-9 partner named Diesel and her hyper Border Jack Apollo, and a slew of farm animals that include alpacas, goats, and sheep.",
+          "rating": null,
+          "book": 15,
+          "published_at": "2021-01-28T09:34:44.307Z",
+          "created_at": "2021-01-28T09:00:43.270Z",
+          "updated_at": "2021-01-28T12:34:27.120Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Fantasy",
+          "published_at": "2021-01-28T16:36:44.374Z",
+          "created_at": "2021-01-28T16:36:37.697Z",
+          "updated_at": "2021-01-28T16:36:44.406Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 9,
+          "name": "Romance novel",
+          "published_at": "2021-01-28T16:29:51.147Z",
+          "created_at": "2021-01-28T16:29:49.545Z",
+          "updated_at": "2021-01-28T16:29:51.171Z"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "How To Win Friends and Influence People",
+      "subtitle": null,
+      "publisher": "HarperTorch",
+      "release_date": "2014-01-27T23:00:00.000Z",
+      "number_of_purchases": 36,
+      "likes": 30,
+      "rating": 4.7,
+      "price": 13.99,
+      "currency": "USD",
+      "available_copies": 50,
+      "full_description": "You can go after the job you want—and get it!\nYou can take the job you have—and improve it!\nYou can take any situation—and make it work for you!\n\nDale Carnegie’s rock-solid, time-tested advice has carried countless people up the ladder of success in their business and personal lives. One of the most groundbreaking and timeless bestsellers of all time, How to Win Friends & Influence People will teach you:\n\n-Six ways to make people like you\n-Twelve ways to win people to your way of thinking\n-Nine ways to change people without arousing resentment\n\nAnd much more! Achieve your maximum potential—a must-read for the twenty-first century with more than 15 million copies sold!",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:00:20.538Z",
+      "created_at": "2021-01-27T17:36:20.366Z",
+      "updated_at": "2021-01-28T16:49:13.917Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611769892/feec/how-to-win-friends_t1a2jn.webp",
+      "authors": [
+        {
+          "id": 10,
+          "name": "Dale Carnegie",
+          "history": "Dale Carnegie was a bestselling author, lecturer, actor and the founder of the Dale Carnegie Institute. The son of a farmer, Carnegie was born in 1888 in Maryville, Missouri. After graduating from teachers’ college, he worked as a salesman and an actor before he started teaching public speaking courses in New York City. His lectures became the basis for How to Win Friends and Influence People, which has been published in over thirty languages. Carnegie died of Hodgkin’s disease in 1955.",
+          "rating": null,
+          "book": 9,
+          "published_at": "2021-01-28T09:33:48.418Z",
+          "created_at": "2021-01-27T17:37:01.638Z",
+          "updated_at": "2021-01-28T11:00:19.273Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 19,
+          "name": "Self Improvement",
+          "published_at": "2021-01-28T16:37:51.133Z",
+          "created_at": "2021-01-28T16:37:48.299Z",
+          "updated_at": "2021-01-28T16:37:51.177Z"
+        },
+        {
+          "id": 20,
+          "name": "Mindfulness",
+          "published_at": "2021-01-28T16:38:03.200Z",
+          "created_at": "2021-01-28T16:38:01.159Z",
+          "updated_at": "2021-01-28T16:38:03.245Z"
+        },
+        {
+          "id": 4,
+          "name": "Psychology",
+          "published_at": "2021-01-28T16:30:55.190Z",
+          "created_at": "2021-01-28T16:30:53.627Z",
+          "updated_at": "2021-01-28T16:30:55.209Z"
+        },
+        {
+          "id": 21,
+          "name": "Personal Growth",
+          "published_at": "2021-01-28T16:38:16.449Z",
+          "created_at": "2021-01-28T16:38:14.802Z",
+          "updated_at": "2021-01-28T16:38:16.471Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        },
+        {
+          "id": 4,
+          "name": "Self Help",
+          "published_at": "2021-01-28T16:28:44.723Z",
+          "created_at": "2021-01-28T16:28:43.019Z",
+          "updated_at": "2021-01-28T16:28:44.753Z"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Blue Ocean Strategy",
+      "subtitle": "How to Create Uncontested Market Space and Make the Competition Irrelevant",
+      "publisher": "Harvard Business School Press",
+      "release_date": "2005-01-01T11:00:00.000Z",
+      "number_of_purchases": 22,
+      "likes": 16,
+      "rating": 4.6,
+      "price": 15.56,
+      "currency": "USD",
+      "available_copies": 2,
+      "full_description": "OVER 4 MILLION COPIES SOLD\nWALL STREET JOURNAL AND BUSINESSWEEK BESTSELLER\nRECOGNIZED AS ONE OF THE MOST ICONIC AND IMPACTFUL STRATEGY BOOKS EVER WRITTEN\n\nThe global phenomenon that has sold over 4 million copies, is published in a record-breaking 46 languages and is a bestseller across five continents--now updated and expanded with new content. Named by Fast Company as one of the most influential leadership books in its Leadership Hall of Fame. A strategy classic.\n\nIn this perennial bestseller, embraced by organizations and industries worldwide, globally preeminent management thinkers W. Chan Kim and Renee Mauborgne challenge everything you thought you knew about the requirements for strategic success. Recognized as one of the most iconic and impactful strategy books ever written, BLUE OCEAN STRATEGY, now updated with fresh content from the authors, argues that cutthroat competition results in nothing but a bloody red ocean of rivals fighting over a shrinking profit pool. Based on a study of 150 strategic moves (spanning more than 100 years across 30 industries), the authors argue that lasting success comes not from battling competitors but from creating \"blue oceans\"--untapped new market spaces ripe for growth.\n\nBLUE OCEAN STRATEGY presents a systematic approach to making the competition irrelevant and outlines principles and tools any organization can use to create and capture their own blue oceans. This expanded edition includes:\n\nA new preface by the authors: Help! My Ocean Is Turning Red\nUpdates on all cases and examples in the book, bringing their stories up to the present time\nTwo new chapters and an expanded third one--Alignment, Renewal, and Red Ocean Traps --that address the most pressing questions readers have asked over the past 10 years\nA landmark work that upends traditional thinking about strategy, this bestselling book charts a bold new path to winning the future. Consider this your guide to creating uncontested market space--and making the competition irrelevant.\n\nTo learn more about the power of BLUE OCEAN STRATEGY, visit blueoceanstrategy.com. There you'll find all the resources you need--from ideas in practice and cases from government and private industry, to teaching materials, mobile apps, real-time updates, and tips and tools to help you make your blue ocean journey a success.",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T09:48:02.398Z",
+      "created_at": "2021-01-28T08:37:56.234Z",
+      "updated_at": "2021-01-28T16:42:32.081Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611770914/feec/blue-ocean-strategy_amjdl6.jpg",
+      "authors": [
+        {
+          "id": 13,
+          "name": "W. Chan Kim",
+          "history": "W. Chan Kim is the Co-Director of the INSEAD Blue Ocean Strategy Institute and a Chair Professor of Strategy and International Management at INSEAD. His book Blue Ocean Strategy, co-authored with Renée Mauborgne, has sold 3.6 million copies and is a bestseller across five continents.\n\nKim is ranked in the top 3 management gurus in the world in the Thinkers50 listing of the World's Top Management Gurus and the Journal of International Management recognizes him as one of the world's most influential academic journal authors in global strategy. He was selected for the 2011 Leadership Hall of Fame by Fast Company magazine and was named among the world's top 5 best business school professors by MBA Rankings. He also received the Nobels Colloquia Prize for Leadership on Business and Economic Thinking. He is a Fellow of the World Economic Forum and an advisory member for the European Union. He also serves as an advisor to several countries.",
+          "rating": null,
+          "book": 12,
+          "published_at": "2021-01-28T09:35:27.046Z",
+          "created_at": "2021-01-28T08:38:48.008Z",
+          "updated_at": "2021-01-28T09:47:54.754Z"
+        },
+        {
+          "id": 14,
+          "name": "Renée A. Mauborgne ",
+          "history": "Renee Mauborgne is The INSEAD Distinguished Fellow and a professor of strategy at INSEAD, one of the world’s top business schools. She is also Co-Director of the INSEAD Blue Ocean Strategy Institute.\n\nRenee Mauborgne along with her colleague Chan Kim was named the #1 Most Influential Business Thinker in the world by Thinkers50. She is the first woman ever to secure the top spot on the Thinkers50 list of global thought leaders. Renee Mauborgne was named among the world’s top 5 best business school professors by MBA Rankings. She has received numerous academic and management awards including the Nobels Colloquia Prize for Leadership on Business and Economic Thinking, the Carl S. Sloane Award by the Association of Management Consulting Firms, the Leadership Hall of Fame by Fast Company, the Eldridge Haynes Prize, awarded by the Academy of International Business and the Eldridge Haynes Memorial Trust of Business International, for the best original paper in the field of international business among others.\n\nMauborgne served on President Barack Obama’s Board of Advisors on Historically Black Colleges and Universities (HBCUs) for the President’s two terms. She is also a Fellow of the World Economic Forum.\n\nMauborgne has published numerous bestselling articles in Harvard Business Review, Academy of Management Journal, Management Science, Organization Science, Strategic Management Journal, Administrative Science Quarterly, Journal of International Business Studies, MIT Sloan Management Review, and others. She also has published numerous articles in The Wall Street Journal, The Wall Street Journal Europe, The New York Times and The Financial Times, among others. Mauborgne is a world’s top bestselling author at the Case Centre and the recipient of numerous Case Centre awards including “The Global Top 10 Bestselling Case Writers.”\n\nMauborgne is the co-author of the global bestseller Blue Ocean Strategy (Harvard Business Review Press) and the indispensable follow-up, Blue Ocean Shift (Hachette Books, September 2017). Blue Ocean Shift is a New York Times and #1 Wall Street Journal Bestseller. It is also an USA Today Bestseller, Los Angeles Times Bestseller, and an International Bestseller. Amazon selected Blue Ocean Shift as a “Best Business and Leadership Books of 2017.” Blue Ocean Shift is also the winner of “The Best Leadership and Strategy Book of 2017” by 800-CEO-READ and the #1 business book of 2017 by Library Journal. Apple iBooks called it “one of the biggest books of the year.” Only a year out, and Blue Ocean Shift is already being published in 30 languages. To date, Blue Ocean Strategy and Blue Ocean Shift teaching materials have been adopted by over 2800 universities in over 100 countries across the globe.\n\nHer book Blue Ocean Strategy has sold over 4 million copies and is recognized as one of the most iconic and impactful strategy books ever written. It is being published in a record-breaking 46 languages and is a bestseller across five continents, hitting over 300 bestseller lists across the globe. The Financial Times called it “one of the bestselling business books of the century” and The Economist called it “the most successful book on business master-planning”. Blue Ocean Strategy is selected as one of the 40 most influential books in the History of the People’s Republic of China (1949-2009) along with Adam Smith’s The Wealth of Nations and Milton Friedman’s Free to Choose.\nClick here for a list of the major book awards won.\n\nMauborgne co-founded the Blue Ocean Global Network (BOGN), a global community of practice on the Blue Ocean family of concepts that she created. BOGN embraces academics, consultants, executives, and government officers.",
+          "rating": null,
+          "book": 12,
+          "published_at": "2021-01-28T09:35:21.388Z",
+          "created_at": "2021-01-28T08:40:46.377Z",
+          "updated_at": "2021-01-28T09:47:54.754Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Corporate",
+          "published_at": "2021-01-28T16:31:56.102Z",
+          "created_at": "2021-01-28T16:31:54.528Z",
+          "updated_at": "2021-01-28T16:31:56.125Z"
+        },
+        {
+          "id": 6,
+          "name": "Strategy",
+          "published_at": "2021-01-28T16:31:18.780Z",
+          "created_at": "2021-01-28T16:31:17.152Z",
+          "updated_at": "2021-01-28T16:31:18.823Z"
+        },
+        {
+          "id": 8,
+          "name": "Management",
+          "published_at": "2021-01-28T16:31:43.955Z",
+          "created_at": "2021-01-28T16:31:42.317Z",
+          "updated_at": "2021-01-28T16:31:43.985Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        },
+        {
+          "id": 7,
+          "name": "Business",
+          "published_at": "2021-01-28T16:29:24.460Z",
+          "created_at": "2021-01-28T16:29:22.839Z",
+          "updated_at": "2021-01-28T16:29:24.489Z"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Four Agreements",
+      "subtitle": "A Practical Guide to Personal Freedom (A Toltec Wisdom Book)",
+      "publisher": "Amber-Allen Publishing",
+      "release_date": "2010-01-18T11:00:00.000Z",
+      "number_of_purchases": 41,
+      "likes": 35,
+      "rating": 4.7,
+      "price": 5.94,
+      "currency": "USD",
+      "available_copies": 0,
+      "full_description": "In The Four Agreements, don Miguel Ruiz reveals the source of self-limiting beliefs that rob us of joy and create needless suffering. Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love.\n\n• A New York Times bestseller for over a decade\n• An international bestseller translated into 46 languages worldwide\n",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:16:53.167Z",
+      "created_at": "2021-01-28T08:54:33.824Z",
+      "updated_at": "2021-01-28T17:00:18.093Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611823358/feec/the-four-agreements_gtp2bw.jpg",
+      "authors": [
+        {
+          "id": 15,
+          "name": "Don Miguel Ruiz",
+          "history": "www.miguelruiz.com\n\nDon Miguel Ruiz is a renowned spiritual teacher and internationally bestselling author of the \"Toltec Wisdom Series,\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 12 million copies in the United States, and have been published in 46 languages worldwide.\n\ndon Miguel has spent the past three decades guiding students to personal freedom through his profound insights regarding the nature of human reality. His newest book, THE ACTOR (Ediciones Urano) written with Barbara Emrys was published November 3rd, 2020.\n\nThe youngest of thirteen children, don Miguel Ruiz was born in rural Mexico to parents who were healers and practitioners of ancient Toltec traditions. As a young adult, he graduated from medical school in Mexico City and practiced neurosurgery with his older brother in Tijuana. A near-fatal car crash forever changed the direction of his life, however, causing him to leave medicine and to examine the essential truth about life and humanity. With his mother's help, and through her ancestral teachings, he discovered his own path to awareness, which evolved into a deep understanding of the physical universe and the virtual world of the mind.\n\nCombining Toltec mythology and scientific perspectives, don Miguel has been able to merge ancient wisdom with modern physics and practical common-sense, forging a new philosophy for seekers of truth and personal authenticity. His landmark bestselling book, The Four Agreements, contains practical steps for long-term, personal transformation and has been read by millions around the world.\n\nFirst published in 1997, The Four Agreements has since sold over nine million copies in the United States and seven million worldwide. It has been translated into 46 languages, appeared on the New York Times bestseller for nearly ten years, and was the 36th bestselling book of the decade. Don Miguel is also the author of The Mastery of Love, The Voice of Knowledge, Prayers, and the New York Times bestseller, The Fifth Agreement, a collaboration with his son, don José Ruiz. Each of his books are international bestsellers.\n\nThe wisdom don Miguel has brought to the world has earned him respect around the globe. He has dedicated his life to sharing his message through practical concepts in order to promote transformation and ultimately change lives for the better. Don Miguel is the recipient of numerous recognitions, including a U.S. Air Force 'challenge coin' engraved with \"The Four Agreements.\" He is the recipient of an Honorary Degree in Cultural and Social Education from the American Cultural Institute of Mexico, and referenced as a \"national treasure\" in his native country.",
+          "rating": null,
+          "book": 20,
+          "published_at": "2021-01-28T09:33:57.824Z",
+          "created_at": "2021-01-28T08:55:13.260Z",
+          "updated_at": "2021-01-28T11:02:43.720Z"
+        },
+        {
+          "id": 16,
+          "name": "Janet Mills",
+          "history": "Janet Mills is the founder of Amber-Allen Publishing, and co-author (with don Miguel Ruiz) of the international bestselling \"Toltec Wisdom Series\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 13 million copies in the United States, and have been published in 46 languages worldwide.\n\nMills recently published an online course, \"The Four Agreements for a Better Life,\" for people who want to deepen their understanding and practice of these deceptively simple agreements. Information about the course is available at TheFourAgreements.com.\n\nMills is also the editor of and publisher of Deepak Chopra's international bestselling title \"The Seven Spiritual Laws of Success\" (over 2.5 million copies sold), and the publisher of 11 world-renowned \"Seth\" books by Jane Roberts, which have been credited with launching the New Age movement.\n\nMills credits the books she publishes for inspiring her belief system and transforming her life. Her personal mission is to share universal wisdom in the language of our times, and to help inspire others to live the life of their dreams. She lives in San Rafael, California.",
+          "rating": null,
+          "book": 20,
+          "published_at": "2021-01-28T09:34:35.061Z",
+          "created_at": "2021-01-28T08:55:55.723Z",
+          "updated_at": "2021-01-28T11:02:43.720Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 21,
+          "name": "Personal Growth",
+          "published_at": "2021-01-28T16:38:16.449Z",
+          "created_at": "2021-01-28T16:38:14.802Z",
+          "updated_at": "2021-01-28T16:38:16.471Z"
+        },
+        {
+          "id": 19,
+          "name": "Self Improvement",
+          "published_at": "2021-01-28T16:37:51.133Z",
+          "created_at": "2021-01-28T16:37:48.299Z",
+          "updated_at": "2021-01-28T16:37:51.177Z"
+        },
+        {
+          "id": 5,
+          "name": "Wellness",
+          "published_at": "2021-01-28T16:31:07.680Z",
+          "created_at": "2021-01-28T16:31:06.061Z",
+          "updated_at": "2021-01-28T16:31:07.699Z"
+        },
+        {
+          "id": 20,
+          "name": "Mindfulness",
+          "published_at": "2021-01-28T16:38:03.200Z",
+          "created_at": "2021-01-28T16:38:01.159Z",
+          "updated_at": "2021-01-28T16:38:03.245Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 4,
+          "name": "Self Help",
+          "published_at": "2021-01-28T16:28:44.723Z",
+          "created_at": "2021-01-28T16:28:43.019Z",
+          "updated_at": "2021-01-28T16:28:44.753Z"
+        },
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "The Signature of All Things",
+      "subtitle": null,
+      "publisher": "Riverhead Books",
+      "release_date": "2013-10-01T11:00:00.000Z",
+      "number_of_purchases": 52,
+      "likes": 31,
+      "rating": 4.3,
+      "price": 13.99,
+      "currency": "USD",
+      "available_copies": 17,
+      "full_description": "A glorious, sweeping novel of desire, ambition, and the thirst for knowledge, from the # 1 New York Times bestselling author of Eat Pray Love, Big Magic, and City of Girls\n\nIn The Signature of All Things, Elizabeth Gilbert returns to fiction, inserting her inimitable voice into an enthralling story of love, adventure and discovery. Spanning much of the eighteenth and nineteenth centuries, the novel follows the fortunes of the extraordinary Whittaker family as led by the enterprising Henry Whittaker—a poor-born Englishman who makes a great fortune in the South American quinine trade, eventually becoming the richest man in Philadelphia. Born in 1800, Henry’s brilliant daughter, Alma (who inherits both her father’s money and his mind), ultimately becomes a botanist of considerable gifts herself. As Alma’s research takes her deeper into the mysteries of evolution, she falls in love with a man named Ambrose Pike who makes incomparable paintings of orchids and who draws her in the exact opposite direction—into the realm of the spiritual, the divine, and the magical. Alma is a clear-minded scientist; Ambrose a utopian artist—but what unites this unlikely couple is a desperate need to understand the workings of this world and the mechanisms behind all life.\n\nExquisitely researched and told at a galloping pace, The Signature of All Things soars across the globe—from London to Peru to Philadelphia to Tahiti to Amsterdam, and beyond. Along the way, the story is peopled with unforgettable characters: missionaries, abolitionists, adventurers, astronomers, sea captains, geniuses, and the quite mad. But most memorable of all, it is the story of Alma Whittaker, who—born in the Age of Enlightenment, but living well into the Industrial Revolution—bears witness to that extraordinary moment in human history when all the old assumptions about science, religion, commerce, and class were exploding into dangerous new ideas. Written in the bold, questing spirit of that singular time, Gilbert’s wise, deep, and spellbinding tale is certain to capture the hearts and minds of readers.",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:28:53.079Z",
+      "created_at": "2021-01-28T09:08:15.081Z",
+      "updated_at": "2021-01-28T17:04:35.535Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611824923/feec/signature-of-all-things_ogxgi7.jpg",
+      "authors": [
+        {
+          "id": 2,
+          "name": "Elizabeth Gilbert",
+          "history": "Elizabeth Gilbert is the number one bestselling author of Eat Pray Love and several other international bestselling books of fiction and non-fiction. Her story collection Pilgrims was a finalist for the PEN/Hemingway award; The Last American Man was a finalist for both the National Book Award and the National Book Critics Circle Award. Her follow-up memoir to Eat Pray Love, Committed, became an instant number one New York Times bestseller. She has published two novels, Stern Men and The Signature of All Things, which was long-listed for the Baileys Women's Prize for Fiction and shortlisted for the Wellcome Book Prize. She lives in New Jersey.\n\nwww.elizabethgilbert.com\n@GilbertLiz",
+          "rating": null,
+          "book": 1,
+          "published_at": "2021-01-28T09:34:14.340Z",
+          "created_at": "2021-01-27T09:18:53.344Z",
+          "updated_at": "2021-01-28T11:06:33.868Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 14,
+          "name": "Historical",
+          "published_at": "2021-01-28T16:36:50.073Z",
+          "created_at": "2021-01-28T16:36:48.661Z",
+          "updated_at": "2021-01-28T16:36:50.118Z"
+        },
+        {
+          "id": 15,
+          "name": "Novel",
+          "published_at": "2021-01-28T16:37:01.562Z",
+          "created_at": "2021-01-28T16:36:59.808Z",
+          "updated_at": "2021-01-28T16:37:01.584Z"
+        }
+      ],
+      "genres": []
+    },
+    {
+      "id": 21,
+      "title": "What You Do Is Who You Are",
+      "subtitle": "How to Create Your Business Culture",
+      "publisher": "HarperAudio",
+      "release_date": "2019-10-29T11:00:00.000Z",
+      "number_of_purchases": 60,
+      "likes": 45,
+      "rating": 4.6,
+      "price": 15.99,
+      "currency": "USD",
+      "available_copies": 0,
+      "full_description": "Ben Horowitz, a leading venture capitalist, modern management expert, and New York Times best-selling author, combines lessons both from history and from modern organizational practice with practical and often surprising advice to help executives build cultures that can weather both good and bad times.\n\nBen Horowitz has long been fascinated by history, and particularly by how people behave differently than you’d expect. The time and circumstances in which they were raised often shapes them - yet a few leaders have managed to shape their times. In What You Do Is Who You Are, he turns his attention to a question crucial to every organization: how do you create and sustain the culture you want?\n\nTo Horowitz, culture is how a company makes decisions. It is the set of assumptions employees use to resolve everyday problems: Should I stay at the Red Roof Inn, or the Four Seasons? Should we discuss the color of this product for five minutes or 30 hours? If culture is not purposeful, it will be an accident or a mistake.\n\nWhat You Do Is Who You Are explains how to make your culture purposeful by spotlighting four models of leadership and culture-building - the leader of the only successful slave revolt, Haiti’s Toussaint Louverture; the Samurai, who ruled Japan for 700 years and shaped modern Japanese culture; Genghis Khan, who built the world’s largest empire; and Shaka Senghor, a man convicted of murder who ran the most formidable prison gang in the yard and ultimately transformed prison culture.\n\nHorowitz connects these leadership examples to modern case-studies, including how Louverture’s cultural techniques were applied (or should have been) by Reed Hastings at Netflix, Travis Kalanick at Uber, and Hillary Clinton, and how Genghis Khan’s vision of cultural inclusiveness has parallels in the work of Don Thompson, the first African-American CEO of McDonalds, and of Maggie Wilderotter, the CEO who led Frontier Communications. Horowitz then offers guidance to help any company understand its own strategy and build a successful culture.\n\nWhat You Do Is Who You Are is a journey through culture, from ancient to modern. Along the way, it answers a question fundamental to any organization: Who are we? How do people talk about us when we’re not around? How do we treat our customers? Are we there for people in a pinch? Can we be trusted?\n\nWho you are is not the values you list on the wall. It’s not what you say in company-wide meeting. It’s not your marketing campaign. It’s not even what you believe. Who you are is what you do. This audiobook aims to help you do the things you need to become the kind of leader you want to be - and others want to follow.",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:31:20.560Z",
+      "created_at": "2021-01-28T09:32:03.538Z",
+      "updated_at": "2021-01-28T17:06:56.135Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611826351/feec/what-you-do_rerozi.jpg",
+      "authors": [
+        {
+          "id": 11,
+          "name": "Ben Horowitz",
+          "history": "Ben Horowitz is the cofounder and general partner of Andreessen Horowitz, a Silicon Valley–based venture capital firm that invests in entrepreneurs building the next generation of leading technology companies. The firm's investments include Airbnb, GitHub, Facebook, Pinterest, and Twitter. Previously he was cofounder and CEO of Opsware, formerly Loudcloud, which was acquired by Hewlett-Packard for $1.6 billion in 2007. Horowitz writes about his experiences and insights from his career as a computer science student, software engineer, cofounder, CEO, and investor in a blog that is read by nearly ten million people. He has also been featured in the Wall Street Journal, the New York Times, the New Yorker, Fortune, the Economist, and Bloomberg Businessweek, among others. Horowitz lives in the San Francisco Bay Area with his wife, Felicia.",
+          "rating": null,
+          "book": 21,
+          "published_at": "2021-01-28T09:33:21.889Z",
+          "created_at": "2021-01-27T17:55:53.605Z",
+          "updated_at": "2021-01-28T11:31:19.503Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 25,
+          "name": " Entrepreneurship",
+          "published_at": "2021-01-28T16:39:02.166Z",
+          "created_at": "2021-01-28T16:39:00.309Z",
+          "updated_at": "2021-01-28T16:39:02.183Z"
+        },
+        {
+          "id": 4,
+          "name": "Psychology",
+          "published_at": "2021-01-28T16:30:55.190Z",
+          "created_at": "2021-01-28T16:30:53.627Z",
+          "updated_at": "2021-01-28T16:30:55.209Z"
+        },
+        {
+          "id": 7,
+          "name": "Leadership",
+          "published_at": "2021-01-28T16:31:31.470Z",
+          "created_at": "2021-01-28T16:31:29.983Z",
+          "updated_at": "2021-01-28T16:31:31.500Z"
+        },
+        {
+          "id": 8,
+          "name": "Management",
+          "published_at": "2021-01-28T16:31:43.955Z",
+          "created_at": "2021-01-28T16:31:42.317Z",
+          "updated_at": "2021-01-28T16:31:43.985Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 7,
+          "name": "Business",
+          "published_at": "2021-01-28T16:29:24.460Z",
+          "created_at": "2021-01-28T16:29:22.839Z",
+          "updated_at": "2021-01-28T16:29:24.489Z"
+        },
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        },
+        {
+          "id": 4,
+          "name": "Self Help",
+          "published_at": "2021-01-28T16:28:44.723Z",
+          "created_at": "2021-01-28T16:28:43.019Z",
+          "updated_at": "2021-01-28T16:28:44.753Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Built to Last",
+      "subtitle": "Successful Habits of Visionary Companies",
+      "publisher": "HarperCollins",
+      "release_date": "2002-08-20T11:00:00.000Z",
+      "number_of_purchases": 10,
+      "likes": 8,
+      "rating": 4.6,
+      "price": 14.99,
+      "currency": "USD",
+      "available_copies": 26,
+      "full_description": "Drawing upon a six-year research project at the Stanford University Graduate School of Business, James C. Collins and Jerry I. Porras took eighteen truly exceptional and long-lasting companies and studied each in direct comparison to one of its top competitors. They examined the companies from their very beginnings to the present day -- as start-ups, as midsize companies, and as large corporations. Throughout, the authors asked: \"What makes the truly exceptional companies different from the comparison companies and what were the common practices these enduringly great companies followed throughout their history?\"\n\nFilled with hundreds of specific examples and organised into a coherent framework of practical concepts that can be applied by managers and entrepreneurs at all levels, Built to Last provides a master blueprint for building organisations that will prosper long into the 21st century and beyond.",
+      "featured": true,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T09:50:03.419Z",
+      "created_at": "2021-01-27T09:37:41.163Z",
+      "updated_at": "2021-01-28T16:52:47.672Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611740637/feec/built-to-last-cover_cb92oa.jpg",
+      "authors": [
+        {
+          "id": 3,
+          "name": "Jim Collins",
+          "history": "Jim Collins is author or coauthor of six books that have sold in total more than ten million copies worldwide, including the bestsellers Good to Great, Built to Last, and How the Mighty Fall. Jim began his research and teaching career on the faculty at Stanford Graduate School of Business, where he received the Distinguished Teaching Award in 1992. He now operates a management laboratory in Boulder, Colorado, where he conducts research, teaches, and consults with executives from the corporate and social sectors.\n\n",
+          "rating": null,
+          "book": 3,
+          "published_at": "2021-01-28T09:35:00.600Z",
+          "created_at": "2021-01-27T09:39:31.094Z",
+          "updated_at": "2021-01-28T09:50:02.197Z"
+        },
+        {
+          "id": 4,
+          "name": "Jerry I. Porras",
+          "history": "Jerry I. Porras is an American organizational theorist, Lane Professor Emeritus of Organizational Behavior and Change at the Stanford University Graduate School of Business. He is best known as co-author of the 1994 bestseller Success Built to Last: Creating A Life That Matters, written with James C. Collins.",
+          "rating": null,
+          "book": 3,
+          "published_at": "2021-01-28T09:34:54.918Z",
+          "created_at": "2021-01-27T09:41:48.044Z",
+          "updated_at": "2021-01-28T09:50:02.197Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 9,
+          "name": "Corporate",
+          "published_at": "2021-01-28T16:31:56.102Z",
+          "created_at": "2021-01-28T16:31:54.528Z",
+          "updated_at": "2021-01-28T16:31:56.125Z"
+        },
+        {
+          "id": 6,
+          "name": "Strategy",
+          "published_at": "2021-01-28T16:31:18.780Z",
+          "created_at": "2021-01-28T16:31:17.152Z",
+          "updated_at": "2021-01-28T16:31:18.823Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Becoming",
+      "subtitle": "An intimate, powerful, and inspiring memoir by the former First Lady of the United States",
+      "publisher": "Crown Publishing Group",
+      "release_date": "2018-11-12T23:00:00.000Z",
+      "number_of_purchases": 93,
+      "likes": 84,
+      "rating": 4.8,
+      "price": 14.99,
+      "currency": "USD",
+      "available_copies": 13,
+      "full_description": "#1 NEW YORK TIMES BESTSELLER • WATCH THE EMMY-NOMINATED NETFLIX ORIGINAL DOCUMENTARY • OPRAH’S BOOK CLUB PICK • NAACP IMAGE AWARD WINNER • ONE OF ESSENCE’S 50 MOST IMPACTFUL BLACK BOOKS OF THE PAST 50 YEARS\n\nIn a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America—the first African American to serve in that role—she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world, dramatically changing the ways that families pursue healthier and more active lives, and standing with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare.\n \nIn her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world’s most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it—in her own words and on her own terms. Warm, wise, and revelatory, Becoming is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.",
+      "featured": true,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T09:41:02.939Z",
+      "created_at": "2021-01-27T10:10:31.242Z",
+      "updated_at": "2021-01-28T16:40:09.823Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611741957/feec/becoming-cover_suqk9r.jpg",
+      "authors": [
+        {
+          "id": 7,
+          "name": "Michelle Obama",
+          "history": "Michelle Robinson Obama served as First Lady of the United States from 2009 to 2017. A graduate of Princeton University and Harvard Law School, Mrs. Obama started her career as an attorney at the Chicago law firm Sidley & Austin, where she met her future husband, Barack Obama. She later worked in the Chicago mayor’s office, at the University of Chicago, and at the University of Chicago Medical Center. Mrs. Obama also founded the Chicago chapter of Public Allies, an organization that prepares young people for careers in public service.\n \nThe Obamas currently live in Washington, DC, and have two daughters, Malia and Sasha.",
+          "rating": null,
+          "book": 6,
+          "published_at": "2021-01-28T09:35:06.852Z",
+          "created_at": "2021-01-27T10:06:54.368Z",
+          "updated_at": "2021-01-28T09:41:01.505Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 3,
+          "name": "Inspirational",
+          "published_at": "2021-01-28T16:30:41.599Z",
+          "created_at": "2021-01-28T16:30:40.026Z",
+          "updated_at": "2021-01-28T16:30:41.622Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 2,
+          "name": "Autobiography",
+          "published_at": "2021-01-28T16:28:20.150Z",
+          "created_at": "2021-01-28T16:28:18.249Z",
+          "updated_at": "2021-01-28T16:28:20.256Z"
+        },
+        {
+          "id": 1,
+          "name": "Memoir",
+          "published_at": "2021-01-28T16:28:04.980Z",
+          "created_at": "2021-01-28T16:28:03.209Z",
+          "updated_at": "2021-01-28T16:28:05.036Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Effective Python",
+      "subtitle": "59 Specific Ways to Write Better Python",
+      "publisher": "Pearson Education",
+      "release_date": "2015-02-12T11:00:00.000Z",
+      "number_of_purchases": 19,
+      "likes": 15,
+      "rating": 4.7,
+      "price": 47.49,
+      "currency": "USD",
+      "available_copies": 10,
+      "full_description": "### Updated and Expanded for Python 3\n\nIt’s easy to start developing programs with Python, which is why the language is so popular. However, Python’s unique strengths, charms, and expressiveness can be hard to grasp, and there are hidden pitfalls that can easily trip you up.\n\nThis second edition of Effective Python will help you master a truly “Pythonic” approach to programming, harnessing Python’s full power to write exceptionally robust and well-performing code. Using the concise, scenario-driven style pioneered in Scott Meyers’ best-selling Effective C++, Brett Slatkin brings together 90 Python best practices, tips, and shortcuts, and explains them with realistic code examples so that you can embrace Python with confidence.\n\nDrawing on years of experience building Python infrastructure at Google, Slatkin uncovers little-known quirks and idioms that powerfully impact code behaviour and performance. You’ll understand the best way to accomplish key tasks so you can write code that’s easier to understand, maintain, and improve. In addition to even more advice, this new edition substantially revises all items from the first edition to reflect how best practices have evolved.\n\n**Key features include**\n- 30 new actionable guidelines for all major areas of Python\n- Detailed explanations and examples of statements, expressions, and built-in types\n- Best practices for writing functions that clarify intention, promote reuse and avoid bugs\n- Better techniques and idioms for using comprehensions and generator functions\n- Coverage of how to accurately express behaviours with classes and interfaces\n- Guidance on how to avoid pitfalls with metaclasses and dynamic attributes\n- More efficient and clear approaches to concurrency and parallelism\n- Solutions for optimizing and hardening to maximize performance and quality\n- Techniques and built-in modules that aid in debugging and testing\n- Tools and best practices for collaborative development\n \nEffective Python will prepare growing programmers to make a big impact using Python.",
+      "featured": true,
+      "tag": "Productivity",
+      "genre": null,
+      "published_at": "2021-01-28T10:57:25.750Z",
+      "created_at": "2021-01-26T09:12:22.633Z",
+      "updated_at": "2021-01-28T16:52:25.955Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611654245/feec/effective-python-cover_s7dahh.jpg",
+      "authors": [
+        {
+          "id": 1,
+          "name": "Brett Slatkin",
+          "history": "Brett Slatkin, senior staff software engineer at Google, is engineering lead and co-founder of Google Consumer Surveys. He previously worked on Google App Engine’s Python infrastructure, leveraged Python to manage Google’s enormous server fleet, and used Python to implement Google's system for PubSubHubbub, a protocol he co-created. Slatkin holds a B.S. in computer engineering from Columbia University in the City of New York. He lives in San Francisco.\n\n",
+          "rating": null,
+          "book": 2,
+          "published_at": "2021-01-21T12:30:40.254Z",
+          "created_at": "2021-01-21T12:30:37.771Z",
+          "updated_at": "2021-01-28T10:57:24.478Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Technology",
+          "published_at": "2021-01-28T16:32:08.119Z",
+          "created_at": "2021-01-28T16:32:06.592Z",
+          "updated_at": "2021-01-28T16:32:08.141Z"
+        },
+        {
+          "id": 11,
+          "name": "Programming",
+          "published_at": "2021-01-28T16:32:23.534Z",
+          "created_at": "2021-01-28T16:32:21.847Z",
+          "updated_at": "2021-01-28T16:32:23.554Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 6,
+          "name": " Computer Science",
+          "published_at": "2021-01-28T16:29:12.137Z",
+          "created_at": "2021-01-28T16:29:10.413Z",
+          "updated_at": "2021-01-28T16:29:12.156Z"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "My Sister, the Serial Killer",
+      "subtitle": null,
+      "publisher": "Atlantic Books",
+      "release_date": "2019-01-03T11:00:00.000Z",
+      "number_of_purchases": 69,
+      "likes": 37,
+      "rating": 4.2,
+      "price": 11.99,
+      "currency": "USD",
+      "available_copies": 5,
+      "full_description": "WINNER OF THE LOS ANGELES TIMES BOOK PRIZE FOR MYSTERY/THRILLER\nSHORTLISTED FOR THE 2019 WOMEN'S PRIZE\n\nA short, darkly funny, hand grenade of a novel about a Nigerian woman whose younger sister has a very inconvenient habit of killing her boyfriends\n\n\"Femi makes three, you know. Three and they label you a serial killer.\"\n\nKorede is bitter. How could she not be? Her sister, Ayoola, is many things: the favorite child, the beautiful one, possibly sociopathic. And now Ayoola's third boyfriend in a row is dead.\n\nKorede's practicality is the sisters' saving grace. She knows the best solutions for cleaning blood, the trunk of her car is big enough for a body, and she keeps Ayoola from posting pictures of her dinner to Instagram when she should be mourning her \"missing\" boyfriend. Not that she gets any credit.\n\nKorede has long been in love with a kind, handsome doctor at the hospital where she works. She dreams of the day when he will realize that she's exactly what he needs. But when he asks Korede for Ayoola's phone number, she must reckon with what her sister has become and how far she's willing to go to protect her.\n\nSharp as nails and full of deadpan wit, Oyinkan Braithwaite's deliciously deadly debut is as fun as it is frightening.",
+      "featured": null,
+      "tag": null,
+      "genre": "Fiction",
+      "published_at": "2021-01-28T11:04:59.799Z",
+      "created_at": "2021-01-27T17:31:03.553Z",
+      "updated_at": "2021-01-28T16:51:15.851Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611769880/feec/my-sister-serial-killer_asapyi.jpg",
+      "authors": [
+        {
+          "id": 9,
+          "name": "Oyinkan Braithwaite",
+          "history": "Oyinkan Braithwaite is a graduate of Creative Writing and Law from Kingston University. Following her degree, she worked as an assistant editor at Kachifo and has been freelancing as a writer and editor since. She has had short stories published in anthologies and has also self published work. In 2014, she was shortlisted as a top ten spoken word artist in the Eko Poetry Slam.\n\nwww.oyinkanbraithwaite.com",
+          "rating": null,
+          "book": 8,
+          "published_at": "2021-01-28T09:35:15.024Z",
+          "created_at": "2021-01-27T17:27:24.270Z",
+          "updated_at": "2021-01-28T12:33:58.006Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 23,
+          "name": "Nigeria",
+          "published_at": "2021-01-28T16:38:38.276Z",
+          "created_at": "2021-01-28T16:38:36.778Z",
+          "updated_at": "2021-01-28T16:38:38.295Z"
+        },
+        {
+          "id": 22,
+          "name": "Satire",
+          "published_at": "2021-01-28T16:38:26.170Z",
+          "created_at": "2021-01-28T16:38:24.461Z",
+          "updated_at": "2021-01-28T16:38:26.195Z"
+        },
+        {
+          "id": 15,
+          "name": "Novel",
+          "published_at": "2021-01-28T16:37:01.562Z",
+          "created_at": "2021-01-28T16:36:59.808Z",
+          "updated_at": "2021-01-28T16:37:01.584Z"
+        }
+      ],
+      "genres": []
+    },
+    {
+      "id": 1,
+      "title": "Big Magic",
+      "subtitle": "Creative living beyond fear",
+      "publisher": "Bloomsbury Publishing",
+      "release_date": "2015-09-22T11:00:00.000Z",
+      "number_of_purchases": 69,
+      "likes": 53,
+      "rating": 4.6,
+      "price": 12.99,
+      "currency": "USD",
+      "available_copies": 5,
+      "full_description": "The instant #1 NEW YORK TIMES Bestseller\n\n\"A must-read for anyone hoping to live a creative life... I dare you not to be inspired to be brave, to be free, and to be curious.” —PopSugar\n\nFrom the worldwide bestselling author of Eat Pray Love and City of Girls: the path to the vibrant, fulfilling life you’ve dreamed of.\n \nReaders of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years. Now, this beloved author digs deep into her own generative process to share her wisdom and unique perspective about creativity. With profound empathy and radiant generosity, she offers potent insights into the mysterious nature of inspiration. She asks us to embrace our curiosity and let go of needless suffering. She shows us how to tackle what we most love, and how to face down what we most fear. She discusses the attitudes, approaches, and habits we need in order to live our most creative lives. Balancing between soulful spirituality and cheerful pragmatism, Gilbert encourages us to uncover the “strange jewels” that are hidden within each of us. Whether we are looking to write a book, make art, find new ways to address challenges in our work,  embark on a dream long deferred, or simply infuse our everyday lives with more mindfulness and passion, Big Magic cracks open a world of wonder and joy.",
+      "featured": true,
+      "tag": "Art",
+      "genre": "Fiction",
+      "published_at": "2021-01-21T12:34:49.159Z",
+      "created_at": "2021-01-21T12:34:37.293Z",
+      "updated_at": "2021-01-28T16:52:10.226Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611739811/feec/big-magic-cover_euc3rh.jpg",
+      "authors": [
+        {
+          "id": 2,
+          "name": "Elizabeth Gilbert",
+          "history": "Elizabeth Gilbert is the number one bestselling author of Eat Pray Love and several other international bestselling books of fiction and non-fiction. Her story collection Pilgrims was a finalist for the PEN/Hemingway award; The Last American Man was a finalist for both the National Book Award and the National Book Critics Circle Award. Her follow-up memoir to Eat Pray Love, Committed, became an instant number one New York Times bestseller. She has published two novels, Stern Men and The Signature of All Things, which was long-listed for the Baileys Women's Prize for Fiction and shortlisted for the Wellcome Book Prize. She lives in New Jersey.\n\nwww.elizabethgilbert.com\n@GilbertLiz",
+          "rating": null,
+          "book": 1,
+          "published_at": "2021-01-28T09:34:14.340Z",
+          "created_at": "2021-01-27T09:18:53.344Z",
+          "updated_at": "2021-01-28T11:06:33.868Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 5,
+          "name": "Wellness",
+          "published_at": "2021-01-28T16:31:07.680Z",
+          "created_at": "2021-01-28T16:31:06.061Z",
+          "updated_at": "2021-01-28T16:31:07.699Z"
+        },
+        {
+          "id": 21,
+          "name": "Personal Growth",
+          "published_at": "2021-01-28T16:38:16.449Z",
+          "created_at": "2021-01-28T16:38:14.802Z",
+          "updated_at": "2021-01-28T16:38:16.471Z"
+        },
+        {
+          "id": 18,
+          "name": "Motivation",
+          "published_at": "2021-01-28T16:37:37.167Z",
+          "created_at": "2021-01-28T16:37:35.672Z",
+          "updated_at": "2021-01-28T16:37:37.206Z"
+        },
+        {
+          "id": 20,
+          "name": "Mindfulness",
+          "published_at": "2021-01-28T16:38:03.200Z",
+          "created_at": "2021-01-28T16:38:01.159Z",
+          "updated_at": "2021-01-28T16:38:03.245Z"
+        },
+        {
+          "id": 19,
+          "name": "Self Improvement",
+          "published_at": "2021-01-28T16:37:51.133Z",
+          "created_at": "2021-01-28T16:37:48.299Z",
+          "updated_at": "2021-01-28T16:37:51.177Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 4,
+          "name": "Self Help",
+          "published_at": "2021-01-28T16:28:44.723Z",
+          "created_at": "2021-01-28T16:28:43.019Z",
+          "updated_at": "2021-01-28T16:28:44.753Z"
+        },
+        {
+          "id": 1,
+          "name": "Memoir",
+          "published_at": "2021-01-28T16:28:04.980Z",
+          "created_at": "2021-01-28T16:28:03.209Z",
+          "updated_at": "2021-01-28T16:28:05.036Z"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "La voz del conocimiento",
+      "subtitle": "Una guia practica para la paz interior",
+      "publisher": "Amber-Allen Publishing; Bilingual edition",
+      "release_date": "2005-03-10T11:00:00.000Z",
+      "number_of_purchases": 17,
+      "likes": 15,
+      "rating": 4.8,
+      "price": 7.99,
+      "currency": "USD",
+      "available_copies": 35,
+      "full_description": "En La voz del conocimiento, Miguel Ruiz nos recuerda una verdad sencilla y profunda: el único modo de acabar con nuestro sufrimiento emocional y recuperar nuestra dicha de vivir consiste en dejar de creer en mentiras — principalmente sobre nosotros mismos. Basado en la antigua sabiduría tolteca, este penetrante libro nos enseña a recuperar nuestra fe en la verdad y a regresar a nuestro propio sentido común.\n \nRuiz cambia la manera en la que nos percibimos a nosotros mismos y a los demás. Después, abre la puerta a una realidad que percibíamos cuando sólo teníamos uno o dos años de edad: una realidad de verdad, amor y dicha.\n \n“Nacemos en la verdad, pero crecemos creyendo en mentiras. . . .  Una de las mayores mentiras de la historia de la humanidad es la mentira de nuestra imperfección.”  —  don Miguel Ruiz\n \nMás sobre el libro\n \nAntes de aprender a hablar, nuestra verdadera naturaleza es la de amar, ser felices, explorar y disfrutar la vida. Escuchamos la voz silenciosa de nuestra integridad. Una vez que aprendemos a hablar, las personas que nos rodean captan nuestra atención y nos programan con conocimiento. Pero ese conocimiento está contaminado por las mentiras.\n \nAl centrar nuestra atención en el conocimiento que está en nuestra cabeza, dejamos de percibir el mundo a través de los ojos del amor; sólo percibimos lo que hemos aprendido a creer. Estamos a merced de la voz del conocimiento. Esa voz no para de hablar, de juzgar, de chismorrear, y de maltratarnos. Sabotea nuestra felicidad y nos impide disfrutar de una realidad basada en la verdad y el amor.\n \nRuiz nos enseña a recobrar la voz silenciosa de nuestra integridad y a encontrar la paz interior. Cuando la voz del conocimiento deja de controlarnos, nuestra vida se convierte en una expresión de nuestro yo auténtico, tal como era antes de que aprendiéramos a hablar. Entonces, regresamos a la verdad, al amor, y vivimos de nuevo en la felicidad.",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:02:45.235Z",
+      "created_at": "2021-01-28T09:28:15.794Z",
+      "updated_at": "2021-01-28T16:50:22.650Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611826136/feec/la-voz-del-conocimiento_j5mkty.jpg",
+      "authors": [
+        {
+          "id": 15,
+          "name": "Don Miguel Ruiz",
+          "history": "www.miguelruiz.com\n\nDon Miguel Ruiz is a renowned spiritual teacher and internationally bestselling author of the \"Toltec Wisdom Series,\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 12 million copies in the United States, and have been published in 46 languages worldwide.\n\ndon Miguel has spent the past three decades guiding students to personal freedom through his profound insights regarding the nature of human reality. His newest book, THE ACTOR (Ediciones Urano) written with Barbara Emrys was published November 3rd, 2020.\n\nThe youngest of thirteen children, don Miguel Ruiz was born in rural Mexico to parents who were healers and practitioners of ancient Toltec traditions. As a young adult, he graduated from medical school in Mexico City and practiced neurosurgery with his older brother in Tijuana. A near-fatal car crash forever changed the direction of his life, however, causing him to leave medicine and to examine the essential truth about life and humanity. With his mother's help, and through her ancestral teachings, he discovered his own path to awareness, which evolved into a deep understanding of the physical universe and the virtual world of the mind.\n\nCombining Toltec mythology and scientific perspectives, don Miguel has been able to merge ancient wisdom with modern physics and practical common-sense, forging a new philosophy for seekers of truth and personal authenticity. His landmark bestselling book, The Four Agreements, contains practical steps for long-term, personal transformation and has been read by millions around the world.\n\nFirst published in 1997, The Four Agreements has since sold over nine million copies in the United States and seven million worldwide. It has been translated into 46 languages, appeared on the New York Times bestseller for nearly ten years, and was the 36th bestselling book of the decade. Don Miguel is also the author of The Mastery of Love, The Voice of Knowledge, Prayers, and the New York Times bestseller, The Fifth Agreement, a collaboration with his son, don José Ruiz. Each of his books are international bestsellers.\n\nThe wisdom don Miguel has brought to the world has earned him respect around the globe. He has dedicated his life to sharing his message through practical concepts in order to promote transformation and ultimately change lives for the better. Don Miguel is the recipient of numerous recognitions, including a U.S. Air Force 'challenge coin' engraved with \"The Four Agreements.\" He is the recipient of an Honorary Degree in Cultural and Social Education from the American Cultural Institute of Mexico, and referenced as a \"national treasure\" in his native country.",
+          "rating": null,
+          "book": 20,
+          "published_at": "2021-01-28T09:33:57.824Z",
+          "created_at": "2021-01-28T08:55:13.260Z",
+          "updated_at": "2021-01-28T11:02:43.720Z"
+        },
+        {
+          "id": 16,
+          "name": "Janet Mills",
+          "history": "Janet Mills is the founder of Amber-Allen Publishing, and co-author (with don Miguel Ruiz) of the international bestselling \"Toltec Wisdom Series\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 13 million copies in the United States, and have been published in 46 languages worldwide.\n\nMills recently published an online course, \"The Four Agreements for a Better Life,\" for people who want to deepen their understanding and practice of these deceptively simple agreements. Information about the course is available at TheFourAgreements.com.\n\nMills is also the editor of and publisher of Deepak Chopra's international bestselling title \"The Seven Spiritual Laws of Success\" (over 2.5 million copies sold), and the publisher of 11 world-renowned \"Seth\" books by Jane Roberts, which have been credited with launching the New Age movement.\n\nMills credits the books she publishes for inspiring her belief system and transforming her life. Her personal mission is to share universal wisdom in the language of our times, and to help inspire others to live the life of their dreams. She lives in San Rafael, California.",
+          "rating": null,
+          "book": 20,
+          "published_at": "2021-01-28T09:34:35.061Z",
+          "created_at": "2021-01-28T08:55:55.723Z",
+          "updated_at": "2021-01-28T11:02:43.720Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 19,
+          "name": "Self Improvement",
+          "published_at": "2021-01-28T16:37:51.133Z",
+          "created_at": "2021-01-28T16:37:48.299Z",
+          "updated_at": "2021-01-28T16:37:51.177Z"
+        },
+        {
+          "id": 20,
+          "name": "Mindfulness",
+          "published_at": "2021-01-28T16:38:03.200Z",
+          "created_at": "2021-01-28T16:38:01.159Z",
+          "updated_at": "2021-01-28T16:38:03.245Z"
+        },
+        {
+          "id": 21,
+          "name": "Personal Growth",
+          "published_at": "2021-01-28T16:38:16.449Z",
+          "created_at": "2021-01-28T16:38:14.802Z",
+          "updated_at": "2021-01-28T16:38:16.471Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 4,
+          "name": "Self Help",
+          "published_at": "2021-01-28T16:28:44.723Z",
+          "created_at": "2021-01-28T16:28:43.019Z",
+          "updated_at": "2021-01-28T16:28:44.753Z"
+        },
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Hard Thing About Hard Things",
+      "subtitle": "Building a Business When There Are No Easy Answers",
+      "publisher": "Harper Business",
+      "release_date": "2014-03-03T23:00:00.000Z",
+      "number_of_purchases": 27,
+      "likes": 21,
+      "rating": 4.7,
+      "price": 10.49,
+      "currency": "USD",
+      "available_copies": 9,
+      "full_description": "Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, offers essential advice on building and running a startup—practical wisdom for managing the toughest problems business school doesn’t cover, based on his popular ben’s blog.\n\nWhile many people talk about how great it is to start a business, very few are honest about how difficult it is to run one. Ben Horowitz analyzes the problems that confront leaders every day, sharing the insights he’s gained developing, managing, selling, buying, investing in, and supervising technology companies. A lifelong rap fanatic, he amplifies business lessons with lyrics from his favorite songs, telling it straight about everything from firing friends to poaching competitors, cultivating and sustaining a CEO mentality to knowing the right time to cash in.\n\nFilled with his trademark humor and straight talk, The Hard Thing About Hard Things is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures, drawing from Horowitz's personal and often humbling experiences.",
+      "featured": true,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:25:38.182Z",
+      "created_at": "2021-01-27T17:55:05.649Z",
+      "updated_at": "2021-01-28T17:01:40.118Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611770367/feec/hard-things-about-hard-things_g0frrg.jpg",
+      "authors": [
+        {
+          "id": 11,
+          "name": "Ben Horowitz",
+          "history": "Ben Horowitz is the cofounder and general partner of Andreessen Horowitz, a Silicon Valley–based venture capital firm that invests in entrepreneurs building the next generation of leading technology companies. The firm's investments include Airbnb, GitHub, Facebook, Pinterest, and Twitter. Previously he was cofounder and CEO of Opsware, formerly Loudcloud, which was acquired by Hewlett-Packard for $1.6 billion in 2007. Horowitz writes about his experiences and insights from his career as a computer science student, software engineer, cofounder, CEO, and investor in a blog that is read by nearly ten million people. He has also been featured in the Wall Street Journal, the New York Times, the New Yorker, Fortune, the Economist, and Bloomberg Businessweek, among others. Horowitz lives in the San Francisco Bay Area with his wife, Felicia.",
+          "rating": null,
+          "book": 21,
+          "published_at": "2021-01-28T09:33:21.889Z",
+          "created_at": "2021-01-27T17:55:53.605Z",
+          "updated_at": "2021-01-28T11:31:19.503Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 8,
+          "name": "Management",
+          "published_at": "2021-01-28T16:31:43.955Z",
+          "created_at": "2021-01-28T16:31:42.317Z",
+          "updated_at": "2021-01-28T16:31:43.985Z"
+        },
+        {
+          "id": 7,
+          "name": "Leadership",
+          "published_at": "2021-01-28T16:31:31.470Z",
+          "created_at": "2021-01-28T16:31:29.983Z",
+          "updated_at": "2021-01-28T16:31:31.500Z"
+        },
+        {
+          "id": 10,
+          "name": "Technology",
+          "published_at": "2021-01-28T16:32:08.119Z",
+          "created_at": "2021-01-28T16:32:06.592Z",
+          "updated_at": "2021-01-28T16:32:08.141Z"
+        },
+        {
+          "id": 25,
+          "name": " Entrepreneurship",
+          "published_at": "2021-01-28T16:39:02.166Z",
+          "created_at": "2021-01-28T16:39:00.309Z",
+          "updated_at": "2021-01-28T16:39:02.183Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 4,
+          "name": "Self Help",
+          "published_at": "2021-01-28T16:28:44.723Z",
+          "created_at": "2021-01-28T16:28:43.019Z",
+          "updated_at": "2021-01-28T16:28:44.753Z"
+        },
+        {
+          "id": 7,
+          "name": "Business",
+          "published_at": "2021-01-28T16:29:24.460Z",
+          "created_at": "2021-01-28T16:29:22.839Z",
+          "updated_at": "2021-01-28T16:29:24.489Z"
+        },
+        {
+          "id": 3,
+          "name": "Biography",
+          "published_at": "2021-01-28T16:28:33.008Z",
+          "created_at": "2021-01-28T16:28:31.311Z",
+          "updated_at": "2021-01-28T16:28:33.042Z"
+        },
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": " The Lean Startup",
+      "subtitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+      "publisher": "Crown Publishing Group",
+      "release_date": "2010-12-31T23:00:00.000Z",
+      "number_of_purchases": 71,
+      "likes": 52,
+      "rating": 4.6,
+      "price": 9.99,
+      "currency": "USD",
+      "available_copies": 12,
+      "full_description": "Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched.\n\nEric Ries defines a startup as an organization dedicated to creating something new under conditions of extreme uncertainty. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business.\n\nThe Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on “validated learning,” rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute.\n\nRather than wasting time creating elaborate business plans, The Lean Startup offers entrepreneurs—in companies of all sizes—a way to test their vision continuously, to adapt and adjust before it’s too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.\n",
+      "featured": true,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:28:10.589Z",
+      "created_at": "2021-01-27T09:48:50.851Z",
+      "updated_at": "2021-01-28T17:03:49.004Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611741004/feec/the-lean-startup-cover_dmwrjj.jpg",
+      "authors": [
+        {
+          "id": 5,
+          "name": "Eric Reis",
+          "history": "Eric Reis is an entrepreneur and author of the popular blog Startup Lessons Learned. He co-founded and served as CTO of IMVU, his third startup,  and has had plenty of startup failures along the way. He is a frequent speaker at business events, has advised a number of startups, large companies, and venture capital firms on business and product strategy, and is an Entrepreneur-in-Residence at Harvard Business School. His Lean Startup methodology has been written about in the New York Times, the Wall Street Journal, the Harvard Business Review, the Huffington Post, and many blogs. He lives in San Francisco.",
+          "rating": null,
+          "book": 17,
+          "published_at": "2021-01-28T09:34:20.959Z",
+          "created_at": "2021-01-27T09:45:20.219Z",
+          "updated_at": "2021-01-28T11:29:58.728Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 10,
+          "name": "Technology",
+          "published_at": "2021-01-28T16:32:08.119Z",
+          "created_at": "2021-01-28T16:32:06.592Z",
+          "updated_at": "2021-01-28T16:32:08.141Z"
+        },
+        {
+          "id": 25,
+          "name": " Entrepreneurship",
+          "published_at": "2021-01-28T16:39:02.166Z",
+          "created_at": "2021-01-28T16:39:00.309Z",
+          "updated_at": "2021-01-28T16:39:02.183Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 7,
+          "name": "Business",
+          "published_at": "2021-01-28T16:29:24.460Z",
+          "created_at": "2021-01-28T16:29:22.839Z",
+          "updated_at": "2021-01-28T16:29:24.489Z"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Fifth Avenue Style",
+      "subtitle": "A Designer's New York Apartment",
+      "publisher": "Vendome Press; Illustrated edition",
+      "release_date": "2013-10-15T11:00:00.000Z",
+      "number_of_purchases": 98,
+      "likes": 75,
+      "rating": 4.4,
+      "price": 60.54,
+      "currency": "USD",
+      "available_copies": 67,
+      "full_description": "Howard Slatkin’s philosophy is that a home should be a deeply personal refuge that gives pleasure and comfort, and in this book he shows everyone how this is done.\n\nIn this gorgeously illustrated volume, Slatkin, an interior designer and founder of the iconic home-fragrance and lifestyle brand Slatkin & Co., opens the doors of his legendary Fifth Avenue apartment and invites readers to accompany him on an intimate tour. Along the way he shares his practical—and often ingenious—methods for creating unique, personal rooms, shows how to make them comfortable and functional as well as beautiful, and reveals his secrets to entertaining with ease and flair.\n\nPhotographer Tria Giovan’s exceptional photography reveals how Howard Slatkin’s apartment—and any home—can achieve a level of sophisticated calm through careful lighting and floor planning, clever arrangement of furniture, and decorative display of personal collections of family photographs and objects. Drawing upon twenty-five years as a leading designer and tastemaker, Slatkin shows how rooms should flow naturally, how to create an intimate feeling, and how to find imaginative solutions for turning awkward spaces and limitations into assets. In Slatkin’s hands, a simple length of rope is transformed into a decorative molding, a claustrophobic passageway becomes home to a collection of blue-and-white porcelains, a kitchen evolves into a room fit for a St. Petersburg palace, and a living room turns into an exotic aviary of multihued birds. Using decorative finishes, tile, and salvaged architectural elements, Slatkin has created a memorable home that is the perfect backdrop for entertaining.",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T10:57:03.395Z",
+      "created_at": "2021-01-28T09:18:58.133Z",
+      "updated_at": "2021-01-28T16:45:04.995Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611825581/feec/fifth-avenue-style_wknvht.jpg",
+      "authors": [
+        {
+          "id": 18,
+          "name": "Howard Slatkin",
+          "history": "In his first book, FIFTH AVENUE STYLE, international interior designer Howard Slatkin shares an intimate look at his New York apartment with sumptuous photographs by Tria Giovan. His deeply personal text shares his inspirations, ideas as well as his philosophy and advice for creating one's dream home and for living beautifully. In his candid essays on each room, he also reveals mistakes he made and what he would do differently. hoping to help readers avoid similar problems. Chapters range from entertaining both in the dining room and the kitchen, and also has chapters on bathrooms and bedrooms and all the service rooms such as closets, pantries, flower room and laundry room-----and of course the main rooms. A feast for the eyes and the mind, the book was four years in the making.\n\nHoward Slatkin has been an interior designer for over twenty years and has worked on residences around the world. His work has been profiled in Architectural Digest, Town & Country, House & Garden, Vogue and The New York Times. He is co-founder of Slatkin & Co. and Torie & Howard (organic candy.)",
+          "rating": null,
+          "book": 19,
+          "published_at": "2021-01-28T09:34:28.142Z",
+          "created_at": "2021-01-28T09:16:36.866Z",
+          "updated_at": "2021-01-28T10:55:19.741Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 12,
+          "name": "Interior Design",
+          "published_at": "2021-01-28T16:36:25.761Z",
+          "created_at": "2021-01-28T16:36:24.155Z",
+          "updated_at": "2021-01-28T16:36:25.782Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 5,
+          "name": "Non-fiction",
+          "published_at": "2021-01-28T16:28:59.786Z",
+          "created_at": "2021-01-28T16:28:58.278Z",
+          "updated_at": "2021-01-28T16:28:59.811Z"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "From Blood and Ash",
+      "subtitle": "Blood And Ash Series Book 1",
+      "publisher": "Blue Box Press",
+      "release_date": "2020-03-29T11:00:00.000Z",
+      "number_of_purchases": 9,
+      "likes": 7,
+      "rating": 4.7,
+      "price": 5.99,
+      "currency": "USD",
+      "available_copies": 4,
+      "full_description": "Captivating and action-packed, From Blood and Ash is a sexy, addictive, and unexpected fantasy perfect for fans of Sarah J. Maas and Laura Thalassa.\n\nA Maiden…\n\nChosen from birth to usher in a new era, Poppy’s life has never been her own. The life of the Maiden is solitary. Never to be touched. Never to be looked upon. Never to be spoken to. Never to experience pleasure. Waiting for the day of her Ascension, she would rather be with the guards, fighting back the evil that took her family, than preparing to be found worthy by the gods. But the choice has never been hers.\n\nA Duty…\n\nThe entire kingdom’s future rests on Poppy’s shoulders, something she’s not even quite sure she wants for herself. Because a Maiden has a heart. And a soul. And longing. And when Hawke, a golden-eyed guard honor bound to ensure her Ascension, enters her life, destiny and duty become tangled with desire and need. He incites her anger, makes her question everything she believes in, and tempts her with the forbidden.\n\nA Kingdom…\n\nForsaken by the gods and feared by mortals, a fallen kingdom is rising once more, determined to take back what they believe is theirs through violence and vengeance. And as the shadow of those cursed draws closer, the line between what is forbidden and what is right becomes blurred. Poppy is not only on the verge of losing her heart and being found unworthy by the gods, but also her life when every blood-soaked thread that holds her world together begins to unravel.",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T10:59:12.999Z",
+      "created_at": "2021-01-28T09:03:54.374Z",
+      "updated_at": "2021-01-28T16:47:22.171Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611824669/feec/from-blood-and-ash_hs4leq.jpg",
+      "authors": [
+        {
+          "id": 17,
+          "name": "Jennifer L. Armentrout",
+          "history": "# 1 NEW YORK TIMES, # 1 International, and USA TODAY Bestselling author Jennifer L. Armentrout lives in West Virginia. She also writes under the name J. Lynn. When she's not hard at work writing, she spends her time, reading, working out, watching zombie movies, and pretending to write. She shares her home with her husband, his K-9 partner named Diesel and her hyper Border Jack Apollo, and a slew of farm animals that include alpacas, goats, and sheep.",
+          "rating": null,
+          "book": 15,
+          "published_at": "2021-01-28T09:34:44.307Z",
+          "created_at": "2021-01-28T09:00:43.270Z",
+          "updated_at": "2021-01-28T12:34:27.120Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 13,
+          "name": "Fantasy",
+          "published_at": "2021-01-28T16:36:44.374Z",
+          "created_at": "2021-01-28T16:36:37.697Z",
+          "updated_at": "2021-01-28T16:36:44.406Z"
+        },
+        {
+          "id": 15,
+          "name": "Novel",
+          "published_at": "2021-01-28T16:37:01.562Z",
+          "created_at": "2021-01-28T16:36:59.808Z",
+          "updated_at": "2021-01-28T16:37:01.584Z"
+        }
+      ],
+      "genres": [
+        {
+          "id": 9,
+          "name": "Romance novel",
+          "published_at": "2021-01-28T16:29:51.147Z",
+          "created_at": "2021-01-28T16:29:49.545Z",
+          "updated_at": "2021-01-28T16:29:51.171Z"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "The Startup Way",
+      "subtitle": "How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth",
+      "publisher": "Currency",
+      "release_date": "2017-10-17T11:00:00.000Z",
+      "number_of_purchases": 2,
+      "likes": 0,
+      "rating": 4.4,
+      "price": 4.99,
+      "currency": "USD",
+      "available_copies": 8,
+      "full_description": "Entrepreneur and bestselling author of The Lean Startup, Eric Ries reveals how entrepreneurial principles can be used by businesses of all kinds, ranging from established companies to early-stage startups, to grow revenues, drive innovation, and transform themselves into truly modern organizations, poised to take advantage of the enormous opportunities of the twenty-first century.  \n\nIn The Lean Startup, Eric Ries laid out the practices of successful startups – building a minimal viable product, customer-focused and scientific testing based on a build-measure-learn method of continuous innovation, and deciding whether to persevere or pivot. In The Startup Way, he turns his attention to an entirely new group of organizations: established enterprises like iconic multinationals GE and Toyota, tech titans like Amazon and Facebook, and the next generation of Silicon Valley upstarts like Airbnb and Twilio.\n\nDrawing on his experiences over the past five years working with these organizations, as well as nonprofits, NGOs, and governments, Ries lays out a system of entrepreneurial management that leads organizations of all sizes  and from every industry to sustainable growth and long-term impact. Filled with in-the-field stories, insights, and tools, The Startup Way is an essential road map for any organization navigating the uncertain waters of the century ahead.",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:29:59.906Z",
+      "created_at": "2021-01-28T09:11:32.624Z",
+      "updated_at": "2021-01-28T17:04:55.554Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611825120/feec/the-startup-way_znfqbe.jpg",
+      "authors": [
+        {
+          "id": 5,
+          "name": "Eric Reis",
+          "history": "Eric Reis is an entrepreneur and author of the popular blog Startup Lessons Learned. He co-founded and served as CTO of IMVU, his third startup,  and has had plenty of startup failures along the way. He is a frequent speaker at business events, has advised a number of startups, large companies, and venture capital firms on business and product strategy, and is an Entrepreneur-in-Residence at Harvard Business School. His Lean Startup methodology has been written about in the New York Times, the Wall Street Journal, the Harvard Business Review, the Huffington Post, and many blogs. He lives in San Francisco.",
+          "rating": null,
+          "book": 17,
+          "published_at": "2021-01-28T09:34:20.959Z",
+          "created_at": "2021-01-27T09:45:20.219Z",
+          "updated_at": "2021-01-28T11:29:58.728Z"
+        }
+      ],
+      "tags": [],
+      "genres": [
+        {
+          "id": 7,
+          "name": "Business",
+          "published_at": "2021-01-28T16:29:24.460Z",
+          "created_at": "2021-01-28T16:29:22.839Z",
+          "updated_at": "2021-01-28T16:29:24.489Z"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Treasure",
+      "subtitle": "Hush Collection",
+      "publisher": "Amazon Original Stories",
+      "release_date": "2020-07-30T11:00:00.000Z",
+      "number_of_purchases": 20,
+      "likes": 7,
+      "rating": 3.7,
+      "price": 1.99,
+      "currency": "USD",
+      "available_copies": 3,
+      "full_description": "A darkly comic short story of class divide, the lives we invent, and the very real risks of preserving an Insta-fame facade by the award-winning author of My Sister, the Serial Killer.\n\nTreasure is a wannabe Instagram influencer in Lagos, Nigeria. She shows off a luxurious life in a gated community that her almost five thousand followers can only dream of. @Sho4Sure is determined to be part of it. The macho mechanic is Treasure’s number one fan, and double taps and blushing emojis are no longer enough. He needs to meet her in the flesh. If only Treasure were more prepared for destiny.\n\nOyinkan Braithwaite’s Treasure is part of Hush, a collection of six stories, ranging from political mysteries to psychological thrillers, in which deception can be a matter of life and death. Each piece can be read or listened to in one truly chilling sitting.",
+      "featured": null,
+      "tag": null,
+      "genre": null,
+      "published_at": "2021-01-28T11:31:02.848Z",
+      "created_at": "2021-01-28T09:14:22.691Z",
+      "updated_at": "2021-01-28T17:05:41.934Z",
+      "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611825288/feec/treasure_lccloa.jpg",
+      "authors": [
+        {
+          "id": 9,
+          "name": "Oyinkan Braithwaite",
+          "history": "Oyinkan Braithwaite is a graduate of Creative Writing and Law from Kingston University. Following her degree, she worked as an assistant editor at Kachifo and has been freelancing as a writer and editor since. She has had short stories published in anthologies and has also self published work. In 2014, she was shortlisted as a top ten spoken word artist in the Eko Poetry Slam.\n\nwww.oyinkanbraithwaite.com",
+          "rating": null,
+          "book": 8,
+          "published_at": "2021-01-28T09:35:15.024Z",
+          "created_at": "2021-01-27T17:27:24.270Z",
+          "updated_at": "2021-01-28T12:33:58.006Z"
+        }
+      ],
+      "tags": [
+        {
+          "id": 23,
+          "name": "Nigeria",
+          "published_at": "2021-01-28T16:38:38.276Z",
+          "created_at": "2021-01-28T16:38:36.778Z",
+          "updated_at": "2021-01-28T16:38:38.295Z"
+        },
+        {
+          "id": 17,
+          "name": "Thriller",
+          "published_at": "2021-01-28T16:37:23.719Z",
+          "created_at": "2021-01-28T16:37:22.040Z",
+          "updated_at": "2021-01-28T16:37:23.754Z"
+        },
+        {
+          "id": 16,
+          "name": "Short Stories",
+          "published_at": "2021-01-28T16:37:11.915Z",
+          "created_at": "2021-01-28T16:37:10.292Z",
+          "updated_at": "2021-01-28T16:37:11.943Z"
+        }
+      ],
+      "genres": []
+    }
+  ]
+}

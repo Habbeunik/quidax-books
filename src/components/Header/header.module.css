@@ -1,0 +1,63 @@
+.AppHeader {
+  display: flex;
+  border: 1px solid #eeeeee;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.05);
+  justify-content: space-between;
+  padding: 10px 15px;
+  background-color: #fff;
+  position: relative;
+}
+
+.AppHeader h3 {
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.HeaderLogoSection {
+  display: flex;
+  align-items: center;
+}
+
+.HeaderActionSectionMobile {
+  display: flex;
+  align-items: center;
+}
+
+.HeaderActionMobile {
+  margin-right: 30px;
+}
+
+.HeaderActionMobile:last-child {
+  margin-right: 0px;
+}
+
+.MobileSearchBoxLayer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.MobileSearchBox {
+  flex: 1;
+  margin-left: 30px;
+  border: 1px solid #dddddd;
+  display: flex;
+}
+
+.MobileSearchInput {
+  border: none;
+  flex: 1;
+}
+
+.MobileSearchButton {
+  border: none;
+  padding: 10px 15px;
+  border-left: 1px solid #dddddd;
+}
