@@ -2,31 +2,41 @@ import React from "react";
 import search from "../../icons/search.svg";
 import back from "../../icons/back.svg";
 import cancel from "../../icons/cancel.svg";
+import { useSearchContext } from "../../context/search";
 
 import Styles from "./header.module.css";
 
 const MobileSearchBox = () => {
-  const [isSearchActive, setIsSearchActive] = React.useState<boolean>(false);
-  const toogleSearchActive = () => setIsSearchActive(!isSearchActive);
+  const { isSearchMode, searchValue, setIsSearchMode, setSearchValue } =
+    useSearchContext();
+
+  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setSearchValue(e.target.value);
+  };
 
   return (
     <>
       <button
         className={`NoneButton ${Styles.HeaderActionMobile}`}
-        onClick={toogleSearchActive}
+        onClick={() => setIsSearchMode(true)}
       >
         <img src={search} alt="search" />
       </button>
       <div
         className={`${Styles.MobileSearchBoxLayer} ${
-          isSearchActive ? Styles.MobileSearchBoxLayerActive : ""
+          isSearchMode ? Styles.MobileSearchBoxLayerActive : ""
         }`}
       >
-        <button className="NoneButton" onClick={toogleSearchActive}>
+        <button className="NoneButton" onClick={() => setIsSearchMode(false)}>
           <img alt="back-icon" src={back} />
         </button>
         <div className={Styles.MobileSearchBox}>
-          <input type="text" className={Styles.MobileSearchInput} />
+          <input
+            type="text"
+            value={searchValue}
+            onChange={handleInputChange}
+            className={Styles.MobileSearchInput}
+          />
           <button className={Styles.MobileSearchButton}>
             <img alt="cancel-icon" src={cancel} />
           </button>
