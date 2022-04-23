@@ -17,19 +17,21 @@ const MobileSearchBox = () => {
       >
         <img src={search} alt="search" />
       </button>
-      {isSearchActive && (
-        <div className={Styles.MobileSearchBoxLayer}>
-          <button className="NoneButton" onClick={toogleSearchActive}>
-            <img alt="back-icon" src={back} />
+      <div
+        className={`${Styles.MobileSearchBoxLayer} ${
+          isSearchActive ? Styles.MobileSearchBoxLayerActive : ""
+        }`}
+      >
+        <button className="NoneButton" onClick={toogleSearchActive}>
+          <img alt="back-icon" src={back} />
+        </button>
+        <div className={Styles.MobileSearchBox}>
+          <input type="text" className={Styles.MobileSearchInput} />
+          <button className={Styles.MobileSearchButton}>
+            <img alt="cancel-icon" src={cancel} />
           </button>
-          <div className={Styles.MobileSearchBox}>
-            <input type="text" className={Styles.MobileSearchInput} />
-            <button className={Styles.MobileSearchButton}>
-              <img alt="cancel-icon" src={cancel} />
-            </button>
-          </div>
         </div>
-      )}
+      </div>
     </>
   );
 };
