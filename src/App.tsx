@@ -15,12 +15,16 @@ function App() {
 
   const currentBook = BOOKS.find((book) => book.id === viewBookId);
   const handleBookClick = (bookId: number) => setViewBookId(bookId);
+  const handleBookDetailsBackClick = () => setViewBookId(null);
 
   return (
     <div className="App">
       <Header />
       {viewBookId && currentBook ? (
-        <BookDetails book={currentBook} />
+        <BookDetails
+          book={currentBook}
+          onBackClick={handleBookDetailsBackClick}
+        />
       ) : (
         <BookList books={BOOKS} onBookClick={handleBookClick} />
       )}

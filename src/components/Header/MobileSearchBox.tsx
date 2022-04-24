@@ -41,7 +41,10 @@ const MobileSearchBox = () => {
             onChange={handleInputChange}
             className={Styles.MobileSearchInput}
           />
-          <button className={Styles.MobileSearchButton}>
+          <button
+            className={Styles.MobileSearchButton}
+            onClick={() => setSearchValue("")}
+          >
             <img alt="cancel-icon" src={cancel} />
           </button>
         </div>
