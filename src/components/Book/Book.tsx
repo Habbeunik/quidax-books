@@ -4,6 +4,7 @@ import cart from "../../icons/cart.svg";
 import people from "../../icons/people.svg";
 import likeIcon from "../../icons/like.svg";
 import ratingIcon from "../../icons/rating.svg";
+import { useCart } from "../../context/cart";
 import { IBook } from "../../types";
 
 import Styles from "./book.module.css";
@@ -14,6 +15,7 @@ type Props = {
 };
 
 const Book: React.FC<Props> = ({ book, onClick }) => {
+  const { addToCart, setCartIsOpen } = useCart();
   const {
     title,
     authors,
@@ -33,6 +35,13 @@ const Book: React.FC<Props> = ({ book, onClick }) => {
     )
     .join(",");
   const genresText = genres?.map((genre) => genre.name).join(", ");
+  const isOutOfStock = available_copies < 1;
+
+  const handleAddToCart = (e: any) => {
+    addToCart(id);
+    setCartIsOpen(true);
+    e.stopPropagation();
+  };
 
   return (
     <div className={Styles.BookItem} onClick={() => onClick(id)}>
@@ -63,9 +72,13 @@ const Book: React.FC<Props> = ({ book, onClick }) => {
             {available_copies} Copies Available
           </p>
         </div>
-        <button className={Styles.BookAddToCart}>
+        <button
+          disabled={isOutOfStock}
+          className={Styles.BookAddToCart}
+          onClick={handleAddToCart}
+        >
           <img src={cart} alt="cart" />
-          Add to Cart
+          {isOutOfStock ? "Out of Stock" : "Add to Cart"}
         </button>
       </div>
     </div>

@@ -28,7 +28,7 @@ export interface IBook {
   likes: number;
   rating: number;
   price: number;
-  currency: number;
+  currency: string;
   available_copies: number;
   full_description: string;
   featured: boolean | null;

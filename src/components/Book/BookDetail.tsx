@@ -22,7 +22,10 @@ const BookDetails = ({ book, onBackClick }: Props) => {
     tags,
     price,
     full_description,
+    available_copies,
   } = book;
+
+  const isOutOfStock = available_copies < 1;
 
   return (
     <main className={Styles.bookDetailsBlock}>
@@ -66,11 +69,16 @@ const BookDetails = ({ book, onBackClick }: Props) => {
           <span>{tags?.map((genre) => genre.name).join(", ")}</span>
         </div>
       </div>
-      <button className={Styles.bookDetailsAddToCartButton}>
+      <button
+        disabled={isOutOfStock}
+        className={`${Styles.bookDetailsAddToCartButton} ${
+          isOutOfStock ? Styles.bookDetailsOutOfStockButton : ""
+        }`}
+      >
         <img src={cart} alt="cart" />
         <div className={Styles.bookDetailsAddToCartInfo}>
-          <h4>Add to cart</h4>
-          <p>23 copies available</p>
+          <h4>{isOutOfStock ? "Out of stock" : "Add to cart"}</h4>
+          <p>{available_copies} copies available</p>
         </div>
         <p className={Styles.bookDetailsPrice}>{price}</p>
       </button>

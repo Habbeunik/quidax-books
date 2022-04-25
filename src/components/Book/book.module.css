@@ -147,3 +147,8 @@
   line-height: 23px;
   font-size: 15px;
 }
+
+.bookDetailsOutOfStockButton {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

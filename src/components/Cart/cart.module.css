@@ -1,0 +1,148 @@
+.CartNav {
+  display: flex;
+  border: 1px solid #eeeeee;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.CartBox {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  background: #f7f7f7;
+  top: 0;
+  right: -100%;
+  z-index: 3;
+  transition: all 300ms ease-out;
+}
+
+.CartIsActive {
+  right: 0px;
+}
+
+.CartNavLabel {
+  display: flex;
+}
+
+.CartNavLabel p {
+  margin: 0px;
+  margin-right: 10px;
+}
+
+.CartNavBack {
+  border: none;
+  background: none;
+  display: flex;
+  align-items: center;
+}
+
+.CartNavBack img {
+  margin-right: 10px;
+}
+
+.CartItemImage img {
+  width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+
+.CartItem {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 60px 1fr;
+  grid-gap: 10px;
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+
+.CartItemImage {
+  background: #f2f2f2;
+}
+
+.CartItemTitle {
+  margin: 0px;
+}
+
+.CartItemPrice {
+  margin: 0px;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.CartItemList {
+  padding: 20px;
+  height: 70vh;
+  overflow: auto;
+}
+
+.CartItemFlex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.CartItemFlex button {
+  padding: 0px;
+}
+
+.CartItemAuthor {
+  margin-top: 0px;
+  font-size: 13px;
+}
+
+.CartItemActions {
+  display: flex;
+  align-items: center;
+  border: 1px solid #dddddd;
+}
+
+.CartItemActions button {
+  border: none;
+  border-radius: 0px;
+  padding: 5px 10px;
+}
+
+.CartItemActions p {
+  font-size: 11px;
+  padding: 5px 10px;
+  margin: 0px;
+}
+
+.CartItemFlex h5 {
+  margin-bottom: 0px;
+}
+
+.CartSubTotal {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  font-size: 13px;
+}
+
+.CartSubTotalPrice {
+  font-size: 20px;
+}
+
+.CartBottom {
+  padding: 0px 20px;
+}
+
+.CartButton {
+  display: flex;
+  background-color: #000;
+  border: none;
+  border-radius: 0px;
+  width: 100%;
+  color: #fff;
+  align-items: center;
+  padding: 5px 30px;
+}
+
+.CartButton h4 {
+  flex: 1;
+}

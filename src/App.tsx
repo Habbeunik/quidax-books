@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Header from "./components/Header/Index";
+import Cart from "./components/Cart";
 import { IBook } from "./types";
 
 import bookJson from "./db/data.json";
@@ -19,6 +20,7 @@ function App() {
 
   return (
     <div className="App">
+      <Cart />
       <Header />
       {viewBookId && currentBook ? (
         <BookDetails

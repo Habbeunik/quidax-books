@@ -37,7 +37,11 @@ const BookList: React.FC<Props> = ({ books, onBookClick }) => {
       {!isSearchMode && (
         <section className="Slider">
           {featuredBooks.map((book) => (
-            <div key={book.id} className="BookCover">
+            <div
+              onClick={() => onBookClick(book.id)}
+              key={book.id}
+              className="BookCover"
+            >
               <img src={book.image_url} alt={book.title} />
             </div>
           ))}
