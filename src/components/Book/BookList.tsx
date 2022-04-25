@@ -3,6 +3,7 @@ import { IBook } from "../../types";
 import Book from "./Book";
 import { useSearchContext } from "../../context/search";
 import { useMemo } from "react";
+import Styles from "./book.module.css";
 
 type Props = { books: IBook[]; onBookClick: (id: number) => void };
 
@@ -56,9 +57,11 @@ const BookList: React.FC<Props> = ({ books, onBookClick }) => {
         ) : (
           <h4 className="Headline">All Books</h4>
         )}
-        {filteredBooks.map((book) => (
-          <Book key={book.id} book={book} onClick={onBookClick} />
-        ))}
+        <div className={Styles.BookItemList}>
+          {filteredBooks.map((book) => (
+            <Book key={book.id} book={book} onClick={onBookClick} />
+          ))}
+        </div>
       </section>
     </main>
   );

@@ -42,3 +42,15 @@
 .fontWLight {
   font-weight: 100;
 }
+
+@media screen and (min-width: 700px) {
+  .BookCover {
+    height: 300px;
+    width: 300px;
+    min-width: 0px;
+  }
+
+  .Slider {
+    grid-gap: 15px;
+  }
+}

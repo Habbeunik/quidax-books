@@ -3,6 +3,14 @@
   grid-template-columns: 120px 1fr;
   grid-gap: 10px;
   margin-bottom: 40px;
+  background: transparent;
+  transition: all 300ms ease-out;
+  cursor: pointer;
+}
+
+.BookItem:hover {
+  background: #ffffff;
+  box-shadow: 0px 30px 60px rgba(0, 0, 0, 0.15);
 }
 
 .BookItemImage {
@@ -70,6 +78,7 @@
 
 .bookDetailsBlock {
   padding: 30px;
+  max-width: 700px;
 }
 
 .bookDetailsNav {
@@ -151,4 +160,12 @@
 .bookDetailsOutOfStockButton {
   opacity: 0.6;
   cursor: not-allowed;
+}
+
+@media screen and (min-width: 700px) {
+  .BookItemList {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 40px;
+  }
 }

@@ -14,8 +14,25 @@
   background: #f7f7f7;
   top: 0;
   right: -100%;
-  z-index: 3;
+  z-index: 4;
   transition: all 300ms ease-out;
+  max-width: 450px;
+  box-shadow: 0px 30px 60px rgba(0, 0, 0, 0.15);
+}
+
+.CartOverlay {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  background: #54505054;
+  top: 0;
+  right: 0;
+  z-index: 3;
+  display: none;
+}
+
+.CartOverlayIsActive {
+  display: block;
 }
 
 .CartIsActive {
